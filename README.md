@@ -29,6 +29,14 @@ stay hungry, stay foolish
 - library : glide, retrofit2, anko, eventbus, databinding
 <br/>
 
+### Process
+- crash monitoring - Fabric / Google Analytics
+- messenger - slack, skype
+- issue tracker - Github / Jira(애자일 / 스프린트 / 칸반) / Trello
+- CI/CD - bitrise / fabric / SonarQube
+- SCM(Software Configuration Management) - svn, github, gitolite
+- document - confluence
+
 ### TODO
 
 ### 읽은 책
@@ -36,6 +44,8 @@ stay hungry, stay foolish
 ### contributor
 
 ### 수상 실적
+
+### 출시 앱
 
 
 ## 연락처
