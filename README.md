@@ -44,6 +44,7 @@ stay hungry, stay foolish
 - CI/CD - bitrise / fabric / SonarQube
 - SCM(Software Configuration Management) - svn, github, gitolite
 - document - confluence
+- code review - pull request and merge request into 2 approve.
 
 ### TODO
 
