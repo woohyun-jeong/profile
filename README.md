@@ -40,11 +40,12 @@ stay hungry, stay foolish
 ### Process
 - crash monitoring - Fabric / Google Analytics
 - messenger - slack, skype
-- issue tracker - Github / Jira(애자일 / 스프린트 / 칸반) / Trello
+- issue tracker - Github / Jira(애자일 / 스프린트 / 칸반) / Trello / redmine
 - CI/CD - bitrise / fabric / SonarQube
 - SCM(Software Configuration Management) - svn, github, gitolite
-- document - confluence
+- collaboration tools - confluence, zeplin
 - code review - pull request and merge request into 2 approve.
+
 
 ### TODO
 
