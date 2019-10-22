@@ -15,9 +15,9 @@ stay hungry, stay foolish
 ```
 
 ## 대학교 프로젝트
-# 파이 3.14 Iot 동아리장.
+### 파이 3.14 Iot 동아리장.
 - https://github.com/woohyun-jeong/iot-smartfishbowl
-# 부산외국어대학교 다문화 사업단 다문화 가정 설문조사 App 개발.
+### 부산외국어대학교 다문화 사업단 다문화 가정 설문조사 App 개발.
 - 다문화 가정 설문 조사 App 프로젝트.
 
 
