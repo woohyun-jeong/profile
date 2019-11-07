@@ -31,7 +31,8 @@ stay hungry, stay foolish
 - 하드웨어 테스트 프로그램 (Jig) 개발 참여
 - 현대자동차, 기아자동차 AVN 앱 개발 
 - 일본 운전자 관리 측정자 (HT-care) 안드로이드 앱 개발 참여
-- Host (HT-home) 안드로이드 앱 개발 참여
+- Host (HT-home) 안드로이드 앱 개발 참여 (v1.1.6 부터)
+https://play.google.com/store/apps/details?id=com.ht.connected.home.mobile
 
 ## 학력
 - 부산 대연고등학교 졸업 (2008.03.04 ~ 2011.02.10)
