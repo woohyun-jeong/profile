@@ -91,8 +91,10 @@ https://play.google.com/store/apps/details?id=com.ht.connected.home.mobile
 
 ### 수상 실적
 - 현대통신 모범사원 표창장 (2017.12.31)
-- 현대통신 창립20주년 공로상 (2018.4.25)
+<img src="https://github.com/woohyun-jeong/profile/blob/master/%EB%AA%A8%EB%B2%94%EC%82%AC%EC%9B%90%ED%91%9C%EC%B0%BD%EC%9E%A5.jpg" width="400"></img>
 
+- 현대통신 창립20주년 공로상 (2018.4.25)
+<img src="https://github.com/woohyun-jeong/profile/blob/master/%EA%B3%B5%EB%A1%9C%EC%83%81.jpg" width="400"></img>
 ### 출시 앱
 
 
