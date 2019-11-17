@@ -34,6 +34,9 @@ stay hungry, stay foolish
 - Host (HT-home) 안드로이드 앱 개발 참여 (v1.1.6 부터) (신규 + 유지보수)
 https://play.google.com/store/apps/details?id=com.ht.connected.home.mobile
 
+## 알고리즘 연습
+- https://github.com/woohyun-jeong/acmicpc
+
 ## 학력
 - 부산 대연고등학교 졸업 (2008.03.04 ~ 2011.02.10)
 - 부산 외국어대학교 졸업 (2011.03.02 ~ 2017.02.17)
