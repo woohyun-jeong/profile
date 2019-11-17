@@ -97,7 +97,6 @@ https://play.google.com/store/apps/details?id=com.ht.connected.home.mobile
 
 
 ## 연락처
-010-5119-9267
 - whjungdev@gmail.com
 - korin57@naver.com
 
