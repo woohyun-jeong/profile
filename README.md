@@ -45,18 +45,22 @@ https://play.google.com/store/apps/details?id=com.ht.connected.home.mobile
 - 정보처리기사 / 등록번호 : 16202030509A / 발행기관 : 산업인력관리공단 / 취득일자 : 2016.07.15
 - 리눅스마스터 2급 / 등록번호 : LMS1603001020 / 발행기관 : 한국정보통신산업협회부설 한국정보통신인력개발센터 / 취득일자 : 2016-09-23
 - 네트워크 관리사 2급 / 등록번호 : NT2034753 / 발행기관 : 한국정보통신자격협회 / 취득일자 : 2016-09-13
+```
+// TODO 정보보안기사, 정보통신기사, 무선설비기사
+```
 
 ## 어학
 - 공부중...
 
 ## 사용기술
 ### Android
-- kotlin
+- kotlin, java
 - rxJava
-- MVVM pattern
+- architecture : MVVM pattern, MVP & clean architecture
 - bitrise + fabric (CI/CD)
 - Robolectric (TDD)
-- library : glide, retrofit2, anko, eventbus, databinding
+- library : glide, retrofit2, anko, eventbus, databinding...
+open source library 학습은 추후에 정리할 예정.
 <br/>
 
 ### Process
