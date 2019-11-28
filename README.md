@@ -57,8 +57,8 @@ https://play.google.com/store/apps/details?id=com.ht.connected.home.mobile
 - kotlin, java
 - rxJava
 - architecture : MVVM pattern, MVP & clean architecture
-- bitrise + fabric (CI/CD)
-- Robolectric (TDD)
+- bitrise + fabric (CI/CD) - fabric 확인만하고 실무에 적용해보지 않음.
+- Robolectric (TDD) - 확인만하고 실무에 적용해보지 않음
 - library : glide, retrofit2, anko, eventbus, databinding...
 open source library 학습은 추후에 정리할 예정.
 <br/>
@@ -67,7 +67,7 @@ open source library 학습은 추후에 정리할 예정.
 - crash monitoring - Fabric / Google Analytics
 - messenger - slack, skype
 - issue tracker - Github / Jira(애자일 / 스프린트 / 칸반) / Trello / redmine
-- CI/CD - bitrise / fabric / SonarQube
+- CI/CD - bitrise / fabric / SonarQube - 확인만하고 실무에 적용해보지 않음.
 - SCM(Software Configuration Management) - svn, github, gitolite
 - collaboration tools - confluence, zeplin
 - code review - pull request and merge request into 2 approve.
@@ -75,7 +75,7 @@ open source library 학습은 추후에 정리할 예정.
 
 ### TODO
 
-### 읽은 책
+### 읽을 책들...
 ## Gradle 그레이들 철저 입문 안드로이드 공식 빌드 시스템
 > 내용 정리
 ## Kotlin IN ACTION
