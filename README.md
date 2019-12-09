@@ -30,6 +30,8 @@ stay hungry, stay foolish
 - 포스코향 월패드 개발 참여 (신규)
 - 하드웨어 테스트 프로그램 (Jig) 개발 참여 (신규)
 - 현대자동차, 기아자동차 AVN 앱 개발 (프로토타입)
+https://tv.hmgjournal.com/MediaCenter/News/Group-Broadcast/news-01-170406.blg
+http://www.consumerwide.com/news/articleView.html?idxno=14809
 - 일본 운전자 관리 측정자 (HT-care) 안드로이드 앱 개발 참여 (신규)
 - Host (HT-home) 안드로이드 앱 개발 참여 (v1.1.6 부터) (신규 + 유지보수)
 https://play.google.com/store/apps/details?id=com.ht.connected.home.mobile
