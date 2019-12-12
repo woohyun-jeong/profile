@@ -19,7 +19,7 @@ stay hungry, stay foolish
 - https://github.com/woohyun-jeong/iot-smartfishbowl
 ### 부산외국어대학교 다문화 사업단 다문화 가정 설문조사 App 개발.
 - 다문화 가정 설문 조사 App 프로젝트.
-
+프로토타입 개발 후 다문화 사업단에 개발 인계하여 개발 저작권을 양도함.
 
 ## 회사경력
 - 현대통신(주) Iot팀 주임 연구원 / Android App 개발 / 2017.01.09 ~ 재직 중
