@@ -33,7 +33,15 @@ stay hungry, stay foolish
 https://tv.hmgjournal.com/MediaCenter/News/Group-Broadcast/news-01-170406.blg
 http://www.consumerwide.com/news/articleView.html?idxno=14809
 - 일본 운전자 관리 측정자 (HT-care) 안드로이드 앱 개발 참여 (신규)
+1. 얼굴 추적 라이브러리 추가. (face tracker)
+2. 프로토타입 App에서 상용화 App으로 전체 개편.
+3. callback 추가로 타이밍 이슈 전체 제거.
 - Host (HT-home) 안드로이드 앱 개발 참여 (v1.1.6 부터) (신규 + 유지보수)
+1. v1.1.6 디밍, 커튼, 가스 수정
+2. v1.1.7 사이렌 기기 추가
+3. v1.1.8 제어기기 제어 문제 수정
+4. v1.1.9 사이렌 기기 아이콘 수정
+5. v1.2.0 아파트 단지 조회, 히스토리 조회 
 https://play.google.com/store/apps/details?id=com.ht.connected.home.mobile
 
 ## 알고리즘 연습
