@@ -7,7 +7,7 @@
 - 고등학교 : 부산 대연고등학교 / 인문고 / 지역 : 부산 남구
 - 대학교 : 부산 외국어대학교 임베디드 소프트웨어 학과 / 소재지 : 부산 금정구
 - 대학교 평점 : 전체 평점 (3.86/4.50) / 이수 전공학점(66) 평균 전공학점 (4.11/4.50) 
-- 가치관 : 낭중지추(囊中之錐) 같은 사람이 되도록 노력하자.
+- 가치관 : 낭중지추(囊中之錐) 같은 사람이 되도록 노력하자, 실패를 두려워하지말자.
 - 취미 : 개인 블로그 작성, 스케치, 글쓰는 것을 좋아해서 회사에서도 confluence를 블로그처럼 사용 중...
 - 개발 언어 : kotlin, java, c
 ```
@@ -43,6 +43,7 @@ http://www.consumerwide.com/news/articleView.html?idxno=14809
 4. v1.1.9 사이렌 기기 아이콘 수정
 5. v1.2.0 아파트 단지 조회, 히스토리 조회 
 https://play.google.com/store/apps/details?id=com.ht.connected.home.mobile
+6. IPC playback 기능 수정 중.
 
 ## 알고리즘 연습
 - https://github.com/woohyun-jeong/acmicpc
@@ -56,7 +57,7 @@ https://play.google.com/store/apps/details?id=com.ht.connected.home.mobile
 - 리눅스마스터 2급 / 등록번호 : LMS1603001020 / 발행기관 : 한국정보통신산업협회부설 한국정보통신인력개발센터 / 취득일자 : 2016-09-23
 - 네트워크 관리사 2급 / 등록번호 : NT2034753 / 발행기관 : 한국정보통신자격협회 / 취득일자 : 2016-09-13
 ```
-// TODO 정보보안기사, 정보통신기사, 무선설비기사
+// TODO 정보보안기사 준비 중
 ```
 
 ## 어학
@@ -78,6 +79,7 @@ open source library 학습은 추후에 정리할 예정.
 - messenger - slack, skype
 - issue tracker - Github / Jira(애자일 / 스프린트 / 칸반) / Trello / redmine
 - CI/CD - bitrise / fabric / SonarQube - 확인만하고 실무에 적용해보지 않음.
+- jenkins 빌드서버 구축 중.
 - SCM(Software Configuration Management) - svn, github, gitolite
 - collaboration tools - confluence, zeplin
 - code review - pull request and merge request into 2 approve.
