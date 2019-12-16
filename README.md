@@ -26,16 +26,33 @@ stay hungry, stay foolish
 
 ## 회사 프로젝트
 - 대림향 월패드 개발 참여 (신규)
+* Qt framework 기반에 UI 개발
+1. 단지 서비스 UI 기능
+2. RS-486 기기제어 UI 기능
+3. TCP/IP 외부 제어기능
+4. SIP 다자간 통화 기능 추가 (세대간, 도어 모니터링)
+
 - 금호향 월패드 개발 참여 (신규)
+* Qt framework 기반에 UI 개발
+1. RS-486 기기제어 UI 기능
+2. TCP/IP 외부 제어기능
+
 - 포스코향 월패드 개발 참여 (신규)
-- 하드웨어 테스트 프로그램 (Jig) 개발 참여 (신규)
-- 현대자동차, 기아자동차 AVN 앱 개발 (프로토타입)
+* Qt framework 기반에 UI 개발
+1. RS-486 기기제어 UI 기능
+2. TCP/IP 외부 제어기능
+
+- 하드웨어 테스트 프로그램 (Jig) 개발 참여 (협업)
+
+- 현대자동차, 기아자동차 AVN 앱 개발 (프로토타입 - 신규)
 https://tv.hmgjournal.com/MediaCenter/News/Group-Broadcast/news-01-170406.blg
 http://www.consumerwide.com/news/articleView.html?idxno=14809
+
 - 일본 운전자 관리 측정자 (HT-care) 안드로이드 앱 개발 참여 (신규)
 1. 얼굴 추적 라이브러리 추가. (face tracker)
 2. 프로토타입 App에서 상용화 App으로 전체 개편.
 3. callback 추가로 타이밍 이슈 전체 제거.
+
 - Host (HT-home) 안드로이드 앱 개발 참여 (v1.1.6 부터) (신규 + 유지보수)
 1. v1.1.6 디밍, 커튼, 가스 수정
 2. v1.1.7 사이렌 기기 추가
