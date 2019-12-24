@@ -147,3 +147,6 @@ https://play.google.com/store/apps/details?id=com.ht.connected.home.mobile
 
 네이버 블로그 주소
 https://blog.naver.com/korin57
+
+T Story 주소
+https://record-king.tistory.com/
