@@ -62,6 +62,12 @@ http://www.consumerwide.com/news/articleView.html?idxno=14809
 https://play.google.com/store/apps/details?id=com.ht.connected.home.mobile
 6. IPC playback 기능 수정 중.
 
+## Toy 프로젝트
+- 얼굴 인식 (Android) https://record-king.tistory.com/19
+- 앨범 일기 작성 (Android) https://record-king.tistory.com/8?category=863202
+- 음성 알림 (Android) https://record-king.tistory.com/12?category=863202
+- 간단한 채팅앱 (Android) https://record-king.tistory.com/18?category=863202
+
 ## 알고리즘 연습
 - https://github.com/woohyun-jeong/acmicpc
 
