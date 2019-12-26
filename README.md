@@ -44,16 +44,16 @@ stay hungry, stay foolish
 
 - 하드웨어 테스트 프로그램 (Jig) 개발 참여 (협업)
 
-- 현대자동차, 기아자동차 AVN 앱 개발 (프로토타입 - 신규)
+- 현대자동차, 기아자동차 AVN 앱 개발 (프로토타입 - 신규) - 2017.03.01 ~ 2017.03.31
 https://tv.hmgjournal.com/MediaCenter/News/Group-Broadcast/news-01-170406.blg
 http://www.consumerwide.com/news/articleView.html?idxno=14809
 
-- 일본 운전자 관리 측정자 (HT-care) 안드로이드 앱 개발 참여 (신규)
+- 일본 운전자 관리 측정자 (HT-care) 안드로이드 앱 개발 참여 (신규) - 2019.09.02 ~ 2019.12.20
 1. 얼굴 추적 라이브러리 추가. (face tracker)
 2. 프로토타입 App에서 상용화 App으로 전체 개편.
 3. callback 추가로 타이밍 이슈 전체 제거.
 
-- Host (HT-home) 안드로이드 앱 개발 참여 (v1.1.6 부터) (신규 + 유지보수)
+- Host (HT-home) 안드로이드 앱 개발 참여 (v1.1.6 부터) (신규 + 유지보수) - 2019.11.01 ~
 1. v1.1.6 디밍, 커튼, 가스 수정
 2. v1.1.7 사이렌 기기 추가
 3. v1.1.8 제어기기 제어 문제 수정
