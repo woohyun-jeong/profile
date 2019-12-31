@@ -64,7 +64,7 @@ https://play.google.com/store/apps/details?id=com.ht.connected.home.mobile
 
 ## Toy 프로젝트
 - 얼굴 인식 (Android) https://record-king.tistory.com/19
-https://play.google.com/store/apps/details?id=com.whjung.android_autocapture
+<a href='https://play.google.com/store/apps/details?id=com.whjung.android_autocapture'><img height="60px" src='https://play.google.com/intl/en/badges/images/generic/ko_badge_web_generic.png'/></a>
 
 - 앨범 일기 작성 (Android) https://record-king.tistory.com/8?category=863202
 - 음성 알림 (Android) https://record-king.tistory.com/12?category=863202
@@ -145,8 +145,10 @@ open source library 학습은 추후에 정리할 예정.
 <img src="https://github.com/woohyun-jeong/profile/blob/master/%EC%97%B4%EC%87%A0.jpg" width="400"></img>
 
 ### 출시 앱
-https://play.google.com/store/apps/details?id=com.ht.connected.home.mobile
-
+HT-home
+<a href='https://play.google.com/store/apps/details?id=com.ht.connected.home.mobile'><img height="60px" src='https://play.google.com/intl/en/badges/images/generic/ko_badge_web_generic.png'/></a>
+얼굴 인식
+<a href='https://play.google.com/store/apps/details?id=com.whjung.android_autocapture'><img height="60px" src='https://play.google.com/intl/en/badges/images/generic/ko_badge_web_generic.png'/></a>
 
 ## 연락처
 - whjungdev@gmail.com
