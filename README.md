@@ -64,6 +64,8 @@ https://play.google.com/store/apps/details?id=com.ht.connected.home.mobile
 
 ## Toy 프로젝트
 - 얼굴 인식 (Android) https://record-king.tistory.com/19
+https://play.google.com/store/apps/details?id=com.whjung.android_autocapture
+
 - 앨범 일기 작성 (Android) https://record-king.tistory.com/8?category=863202
 - 음성 알림 (Android) https://record-king.tistory.com/12?category=863202
 - 간단한 채팅앱 (Android) https://record-king.tistory.com/18?category=863202
