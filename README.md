@@ -25,42 +25,49 @@ stay hungry, stay foolish
 - 현대통신(주) Iot팀 주임 연구원 / Android App 개발 / 2017.01.09 ~ 재직 중
 
 ## 회사 프로젝트
-- 대림향 월패드 개발 참여 (신규)
+- 현대자동차, 기아자동차 AVN 앱 개발 (프로토타입 - 신규) - 2017.03.01 ~ 2017.03.31
+https://tv.hmgjournal.com/MediaCenter/News/Group-Broadcast/news-01-170406.blg
+http://www.consumerwide.com/news/articleView.html?idxno=14809
+
+- 현대건설 버스 정보 시스템 개발 (신규) - 2017.04.01 ~ 2017.04.30
+* Qt framework 기반에 UI 개발
+1. 버스 정보 시스템 서비스 UI 기능
+
+- 대림향 월패드 개발 참여 (신규) - 2017.05.01 ~ 2018.05.31
 * Qt framework 기반에 UI 개발
 1. 단지 서비스 UI 기능
 2. RS-486 기기제어 UI 기능
 3. TCP/IP 외부 제어기능
 4. SIP 다자간 통화 기능 추가 (세대간, 도어 모니터링)
 
-- 금호향 월패드 개발 참여 (신규)
+- 금호향 월패드 개발 참여 (신규) - 2018.06.01 ~ 2019.04.30
 * Qt framework 기반에 UI 개발
 1. RS-486 기기제어 UI 기능
 2. TCP/IP 외부 제어기능
 
-- 포스코향 월패드 개발 참여 (신규)
+- 하드웨어 테스트 프로그램 (Jig) 개발 참여 (협업) - 2019.05.01 ~ 2019
+
+- 포스코향 월패드 개발 참여 (신규) - 2019.05.01 ~ 2019.09.01
 * Qt framework 기반에 UI 개발
 1. RS-486 기기제어 UI 기능
 2. TCP/IP 외부 제어기능
 
-- 하드웨어 테스트 프로그램 (Jig) 개발 참여 (협업)
-
-- 현대자동차, 기아자동차 AVN 앱 개발 (프로토타입 - 신규) - 2017.03.01 ~ 2017.03.31
-https://tv.hmgjournal.com/MediaCenter/News/Group-Broadcast/news-01-170406.blg
-http://www.consumerwide.com/news/articleView.html?idxno=14809
 
 - 일본 운전자 관리 측정자 (HT-care) 안드로이드 앱 개발 참여 (신규) - 2019.09.02 ~ 2019.12.20
 1. 얼굴 추적 라이브러리 추가. (face tracker)
 2. 프로토타입 App에서 상용화 App으로 전체 개편.
 3. callback 추가로 타이밍 이슈 전체 제거.
 
-- Host (HT-home) 안드로이드 앱 개발 참여 (v1.1.6 부터) (신규 + 유지보수) - 2019.11.01 ~
+- HT-home 1.0 안드로이드 앱 개발 참여 (v1.1.6 부터) (신규 + 유지보수) - 2019.11.01 ~
 1. v1.1.6 디밍, 커튼, 가스 수정
 2. v1.1.7 사이렌 기기 추가
 3. v1.1.8 제어기기 제어 문제 수정
 4. v1.1.9 사이렌 기기 아이콘 수정
 5. v1.2.0 아파트 단지 조회, 히스토리 조회 
 https://play.google.com/store/apps/details?id=com.ht.connected.home.mobile
-6. IPC playback 기능 수정 중.
+6. IPC playback UI 리펙토링, 기능 수정
+
+- HT-home 2.0 안드로이드 앱 개발 참여 (신규) - 리뉴얼 준비 중
 
 ## Toy 프로젝트
 - 얼굴 인식 (Android) https://record-king.tistory.com/19
@@ -95,6 +102,7 @@ https://play.google.com/store/apps/details?id=com.ht.connected.home.mobile
 - architecture : MVVM pattern, MVP & clean architecture
 - bitrise + fabric (CI/CD) - fabric 2020년 3월 31일 부로 지원 종료. firebase 사용해야함.
 - Firebase Crashlytics 
+- Firebase Remoteconfig
 - Robolectric (TDD) - 확인만하고 실무에 적용해보지 않음
 - library : glide, retrofit2, anko, eventbus, databinding...
 open source library 학습은 추후에 정리할 예정.
