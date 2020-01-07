@@ -46,6 +46,9 @@ http://www.consumerwide.com/news/articleView.html?idxno=14809
 2. TCP/IP 외부 제어기능
 
 - 하드웨어 테스트 프로그램 (Jig) 개발 참여 (협업) - 2018.06.01 ~ 2018.06.30
+1. internal GPIO, external GPIO 모듈
+2. Audio
+3. Dot matrix
 
 - 포스코향 월패드 개발 참여 (신규) - 2019.05.01 ~ 2019.09.01
 * Qt framework 기반에 UI 개발
