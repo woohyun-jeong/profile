@@ -107,6 +107,7 @@ https://play.google.com/store/apps/details?id=com.ht.connected.home.mobile
 - Firebase Crashlytics 
 - Firebase Remote config
 - Firebase Cloud Message
+- Jitpack
 - Robolectric (TDD) - 확인만하고 실무에 적용해보지 않음
 - library : glide, retrofit2, anko, eventbus, databinding...
 open source library 학습은 추후에 정리할 예정.
