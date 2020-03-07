@@ -108,6 +108,7 @@ https://play.google.com/store/apps/details?id=com.ht.connected.home.mobile
 2. 이름 검색을 통한 사용자 정보 찾기 기능
 
 #### 프로젝트 명 : Iot 통합형 안드로이드 앱 개발 (준비 중)
+- 진행 중   
 
 #### Toy 프로젝트
 - 얼굴 인식 (Android) https://record-king.tistory.com/19
@@ -157,12 +158,10 @@ open source library 학습은 추후에 정리할 예정.
 
 ### 수상 실적
 - 현대통신 모범사원 표창장 (2017.12.31)
-
 <img src="https://github.com/woohyun-jeong/profile/blob/master/%EB%AA%A8%EB%B2%94%EC%82%AC%EC%9B%90%EC%83%81.jpg" width="400"></img>
 <img src="https://github.com/woohyun-jeong/profile/blob/master/%EB%A7%88%ED%8C%A8.jpg" width="400"></img>
 
 - 현대통신 창립20주년 공로상 (2018.4.25)
-
 <img src="https://github.com/woohyun-jeong/profile/blob/master/%EA%B3%B5%EB%A1%9C%EC%83%81.jpg" width="400"></img>
 <img src="https://github.com/woohyun-jeong/profile/blob/master/%EC%97%B4%EC%87%A0.jpg" width="400"></img>
 
