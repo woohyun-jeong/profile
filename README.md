@@ -111,7 +111,7 @@ https://play.google.com/store/apps/details?id=com.ht.connected.home.mobile
 - 진행 중   
 
 #### Toy 프로젝트
-- 얼굴 인식 (Android) https://record-king.tistory.com/19
+- 얼굴 인식 (Android) https://record-king.tistory.com/19   
 <a href='https://play.google.com/store/apps/details?id=com.whjung.android_autocapture'><img height="60px" src='https://play.google.com/intl/en/badges/images/generic/ko_badge_web_generic.png'/></a>
 - 앨범 일기 작성 (Android) https://record-king.tistory.com/8?category=863202
 - 음성 알림 (Android) https://record-king.tistory.com/12?category=863202
@@ -167,11 +167,14 @@ open source library 학습은 추후에 정리할 예정.
 
 ### 신규 출시 앱들
 HT-home
-<a href='https://play.google.com/store/apps/details?id=com.ht.connected.home.mobile'><img height="60px" src='https://play.google.com/intl/en/badges/images/generic/ko_badge_web_generic.png'/></a>
+<a href='https://play.google.com/store/apps/details?id=com.ht.connected.home.mobile'>   
+<img height="60px" src='https://play.google.com/intl/en/badges/images/generic/ko_badge_web_generic.png'/></a>
 HT-care
-<a href='https://play.google.com/store/apps/details?id=kr.co.hdtel.htcare'><img height="60px" src='https://play.google.com/intl/en/badges/images/generic/ko_badge_web_generic.png'/></a>
+<a href='https://play.google.com/store/apps/details?id=kr.co.hdtel.htcare'>   
+<img height="60px" src='https://play.google.com/intl/en/badges/images/generic/ko_badge_web_generic.png'/></a>
 얼굴 인식
-<a href='https://play.google.com/store/apps/details?id=com.whjung.android_autocapture'><img height="60px" src='https://play.google.com/intl/en/badges/images/generic/ko_badge_web_generic.png'/></a>
+<a href='https://play.google.com/store/apps/details?id=com.whjung.android_autocapture'>   
+<img height="60px" src='https://play.google.com/intl/en/badges/images/generic/ko_badge_web_generic.png'/></a>
 
 ### 유지 보수 앱들
 https://play.google.com/store/apps/developer?id=HYUNDAI+TELECOM
