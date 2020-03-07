@@ -35,14 +35,14 @@
 
 ## 회사 프로젝트
 
-### 프로젝트 명 : 현대자동차, 기아자동차 AVN 앱 개발 (프로토타입 - 신규)
+#### 프로젝트 명 : 현대자동차, 기아자동차 AVN 앱 개발 (프로토타입 - 신규)
 역할      : POC 모델 증명할 Android App 개발
 개발 기간 : 2017.03.01 ~ 2017.03.31
 참고 자료 :
 https://tv.hmgjournal.com/MediaCenter/News/Group-Broadcast/news-01-170406.blg (현대그룹 TV)
 http://www.consumerwide.com/news/articleView.html?idxno=14809 (㈜컨슈머와이드 뉴스)
 
-### 프로젝트 명 : 현대건설 버스정보 시스템 개발 (신규)
+#### 프로젝트 명 : 현대건설 버스정보 시스템 개발 (신규)
 역할      : UI 개발 및 Framework 기능 추가.
 개발 기간 : 2017.04.01 ~ 2017.04.30
 개발 내용 :
