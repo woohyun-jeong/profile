@@ -30,7 +30,7 @@ stay hungry, stay foolish
 ```
 개발 기간 : 2017.03.01 ~ 2017.03.31
 참고 자료 : 
-[link]: https://tv.hmgjournal.com/MediaCenter/News/Group-Broadcast/news-01-170406.blg "Go google"
+Link: [Google][https://tv.hmgjournal.com/MediaCenter/News/Group-Broadcast/news-01-170406.blg]
 [link]: http://www.consumerwide.com/news/articleView.html?idxno=14809 "Go google"
 
 ```
