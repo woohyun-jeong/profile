@@ -27,13 +27,13 @@ stay hungry, stay foolish
 ## 회사 프로젝트
 
 ### 프로젝트 명 : 현대자동차, 기아자동차 AVN 앱 개발 (프로토타입 - 신규)
-```
 개발 기간 : 2017.03.01 ~ 2017.03.31
-참고 자료 : 
-Link: [Google][https://tv.hmgjournal.com/MediaCenter/News/Group-Broadcast/news-01-170406.blg]
-[link]: http://www.consumerwide.com/news/articleView.html?idxno=14809 "Go google"
+참고 자료 :
+https://tv.hmgjournal.com/MediaCenter/News/Group-Broadcast/news-01-170406.blg (현대그룹 TV)
+http://www.consumerwide.com/news/articleView.html?idxno=14809 (㈜컨슈머와이드 뉴스)
 
-```
+
+
 - 현대건설 버스 정보 시스템 개발 (신규) - 2017.04.01 ~ 2017.04.30
 * Qt framework 기반에 UI 개발
 1. 버스 정보 시스템 서비스 UI 기능
