@@ -152,8 +152,14 @@ open source library 학습은 추후에 정리할 예정.
 ### 출시 앱
 HT-home
 <a href='https://play.google.com/store/apps/details?id=com.ht.connected.home.mobile'><img height="60px" src='https://play.google.com/intl/en/badges/images/generic/ko_badge_web_generic.png'/></a>
+HT-care
+<a href='https://play.google.com/store/apps/details?id=kr.co.hdtel.htcare'><img height="60px" src='https://play.google.com/intl/en/badges/images/generic/ko_badge_web_generic.png'/></a>
+
+
 얼굴 인식
 <a href='https://play.google.com/store/apps/details?id=com.whjung.android_autocapture'><img height="60px" src='https://play.google.com/intl/en/badges/images/generic/ko_badge_web_generic.png'/></a>
+
+
 
 ## 연락처
 - whjungdev@gmail.com
