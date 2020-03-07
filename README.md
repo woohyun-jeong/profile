@@ -48,7 +48,7 @@ http://www.consumerwide.com/news/articleView.html?idxno=14809 (㈜컨슈머와�
 - 개발 내용 :   
 1. 단지서비스 UI 기능
 
-### 프로젝트 명 : 대림향 월패드 개발 (신규)
+#### 프로젝트 명 : 대림향 월패드 개발 (신규)
 - 역할      : UI 개발 및 Framework 기능 추가 및 수정.   
 - 개발 기간 : 2017.05.01 ~ 2018.05.31   
 - 개발 내용 :   
@@ -57,14 +57,14 @@ http://www.consumerwide.com/news/articleView.html?idxno=14809 (㈜컨슈머와�
 3. TCP/IP 외부 제어기능
 4. SIP 다자간 통화 기능 추가 (세대간, 도어 모니터링)
 
-### 프로젝트 명 : 금호향 월패드 개발 (신규)
+#### 프로젝트 명 : 금호향 월패드 개발 (신규)
 - 역할      : UI 개발 및 Framework 기능 추가 및 수정.   
 - 개발 기간 : 2018.06.01 ~ 2019.04.30   
 - 개발 내용 :   
 1. RS-485 기기제어 UI 기능
 2. TCP/IP 외부 제어기능
 
-### 프로젝트 명 : 하드웨어 테스트 프로그램 (Jig) 개발 (신규)
+#### 프로젝트 명 : 하드웨어 테스트 프로그램 (Jig) 개발 (신규)
 - 역할      : Jig 기능 요구사항 협의 및 기능 추가.   
 - 개발 기간 : 2018.06.01 ~ 2018.06.30   
 - 개발 내용 :   
@@ -72,14 +72,14 @@ http://www.consumerwide.com/news/articleView.html?idxno=14809 (㈜컨슈머와�
 2. Audio
 3. Dot matrix
 
-### 프로젝트 명 : 포스코향 월패드 개발 (신규)
+#### 프로젝트 명 : 포스코향 월패드 개발 (신규)
 - 역할      : UI 개발 및 Framework 기능 추가 및 수정.   
 - 개발 기간 : 2019.05.01 ~ 2019.09.01   
 - 개발 내용 :   
 1. RS-485 기기제어 UI 기능
 2. TCP/IP 외부 제어기능
 
-### 프로젝트 명 : 일본 운전자 관리 측정자 (HT-care) 안드로이드 앱 개발 (신규)
+#### 프로젝트 명 : 일본 운전자 관리 측정자 (HT-care) 안드로이드 앱 개발 (신규)
 - 역할      : UI 개발 및 기능 추가
 - 개발 기간 : 2019.09.02 ~ 2019.03.06
 - 개발 내용 :
@@ -87,7 +87,7 @@ http://www.consumerwide.com/news/articleView.html?idxno=14809 (㈜컨슈머와�
 2. 이름 검색을 통한 사용자 정보 찾기 기능
 3. 얼굴, 손가락을 통한 사용자의 헬스케어 측정
 
-### 프로젝트 명 : Host 장비를 통한 Iot 기기제어 (HT-home) 안드로이드 앱 개발 (유지보수)
+#### 프로젝트 명 : Host 장비를 통한 Iot 기기제어 (HT-home) 안드로이드 앱 개발 (유지보수)
 - 역할      : 기존 서비스의 앱 수정 및 기능 추가
 - 개발 기간 : 2019.11.01 ~ 진행 중
 - 개발 내용 :   
@@ -107,15 +107,16 @@ https://play.google.com/store/apps/details?id=com.ht.connected.home.mobile
 1. 얼굴 추적 라이브러리(face tracker) 탑제를 통한 Preview 얼굴인식 기능
 2. 이름 검색을 통한 사용자 정보 찾기 기능
 
-### 프로젝트 명 : Iot 통합형 안드로이드 앱 개발 (준비 중)
+#### 프로젝트 명 : Iot 통합형 안드로이드 앱 개발 (준비 중)
 
-## Toy 프로젝트
+#### Toy 프로젝트
 - 얼굴 인식 (Android) https://record-king.tistory.com/19
 <a href='https://play.google.com/store/apps/details?id=com.whjung.android_autocapture'><img height="60px" src='https://play.google.com/intl/en/badges/images/generic/ko_badge_web_generic.png'/></a>
-
 - 앨범 일기 작성 (Android) https://record-king.tistory.com/8?category=863202
 - 음성 알림 (Android) https://record-king.tistory.com/12?category=863202
 - 간단한 채팅앱 (Android) https://record-king.tistory.com/18?category=863202
+-------------
+
 
 ## 알고리즘 연습
 - https://github.com/woohyun-jeong/acmicpc
