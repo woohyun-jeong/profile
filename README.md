@@ -136,8 +136,6 @@ open source library 학습은 추후에 정리할 예정.
 - collaboration tools - confluence, zeplin
 - code review - pull request and merge request into 2 approve.
 
-### contributor
-
 ### 수상 실적
 - 현대통신 모범사원 표창장 (2017.12.31)
 
@@ -149,16 +147,16 @@ open source library 학습은 추후에 정리할 예정.
 <img src="https://github.com/woohyun-jeong/profile/blob/master/%EA%B3%B5%EB%A1%9C%EC%83%81.jpg" width="400"></img>
 <img src="https://github.com/woohyun-jeong/profile/blob/master/%EC%97%B4%EC%87%A0.jpg" width="400"></img>
 
-### 출시 앱
+### 신규 출시 앱들
 HT-home
 <a href='https://play.google.com/store/apps/details?id=com.ht.connected.home.mobile'><img height="60px" src='https://play.google.com/intl/en/badges/images/generic/ko_badge_web_generic.png'/></a>
 HT-care
 <a href='https://play.google.com/store/apps/details?id=kr.co.hdtel.htcare'><img height="60px" src='https://play.google.com/intl/en/badges/images/generic/ko_badge_web_generic.png'/></a>
-
-
 얼굴 인식
 <a href='https://play.google.com/store/apps/details?id=com.whjung.android_autocapture'><img height="60px" src='https://play.google.com/intl/en/badges/images/generic/ko_badge_web_generic.png'/></a>
 
+### 유지 보수 앱들
+https://play.google.com/store/apps/developer?id=HYUNDAI+TELECOM
 
 
 ## 연락처
