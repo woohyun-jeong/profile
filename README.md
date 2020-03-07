@@ -25,10 +25,11 @@ stay hungry, stay foolish
 - 현대통신(주) Iot팀 주임 연구원 / Android App 개발 / 2017.01.09 ~ 재직 중
 
 ## 회사 프로젝트
-- 현대자동차, 기아자동차 AVN 앱 개발 (프로토타입 - 신규) - 2017.03.01 ~ 2017.03.31
+```
+현대자동차, 기아자동차 AVN 앱 개발 (프로토타입 - 신규) - 2017.03.01 ~ 2017.03.31
 https://tv.hmgjournal.com/MediaCenter/News/Group-Broadcast/news-01-170406.blg
 http://www.consumerwide.com/news/articleView.html?idxno=14809
-
+```
 - 현대건설 버스 정보 시스템 개발 (신규) - 2017.04.01 ~ 2017.04.30
 * Qt framework 기반에 UI 개발
 1. 버스 정보 시스템 서비스 UI 기능
