@@ -100,6 +100,13 @@ http://www.consumerwide.com/news/articleView.html?idxno=14809 (㈜컨슈머와�
 https://play.google.com/store/apps/details?id=com.ht.connected.home.mobile
 6. IPC playback UI 리펙토링, 기능 수정
 
+#### 프로젝트 명 : 현대건설 안면인식 앱 개발 (프로토타입 - 신규)
+- 역할      : POC 모델 증명할 Android App 개발 
+- 개발 기간 : 2020.02.17 ~ 2020.02.21
+- 개발 내용 :
+1. 얼굴 추적 라이브러리(face tracker) 탑제를 통한 Preview 얼굴인식 기능
+2. 이름 검색을 통한 사용자 정보 찾기 기능
+
 ### 프로젝트 명 : Iot 통합형 안드로이드 앱 개발 (준비 중)
 
 ## Toy 프로젝트
