@@ -112,7 +112,6 @@ https://play.google.com/store/apps/details?id=com.ht.connected.home.mobile
 
 #### Toy 프로젝트
 - 얼굴 인식 (Android) https://record-king.tistory.com/19   
-<a href='https://play.google.com/store/apps/details?id=com.whjung.android_autocapture'><img height="60px" src='https://play.google.com/intl/en/badges/images/generic/ko_badge_web_generic.png'/></a>
 - 앨범 일기 작성 (Android) https://record-king.tistory.com/8?category=863202
 - 음성 알림 (Android) https://record-king.tistory.com/12?category=863202
 - 간단한 채팅앱 (Android) https://record-king.tistory.com/18?category=863202
@@ -160,7 +159,6 @@ open source library 학습은 추후에 정리할 예정.
 - 현대통신 모범사원 표창장 (2017.12.31)   
 <img src="https://github.com/woohyun-jeong/profile/blob/master/%EB%AA%A8%EB%B2%94%EC%82%AC%EC%9B%90%EC%83%81.jpg" width="400"></img>   
 <img src="https://github.com/woohyun-jeong/profile/blob/master/%EB%A7%88%ED%8C%A8.jpg" width="400"></img>  
-
 - 현대통신 창립20주년 공로상 (2018.4.25)   
 <img src="https://github.com/woohyun-jeong/profile/blob/master/%EA%B3%B5%EB%A1%9C%EC%83%81.jpg" width="400"></img>   
 <img src="https://github.com/woohyun-jeong/profile/blob/master/%EC%97%B4%EC%87%A0.jpg" width="400"></img>   
@@ -179,11 +177,9 @@ HT-care
 ### 유지 보수 앱들
 https://play.google.com/store/apps/developer?id=HYUNDAI+TELECOM
 
-
 ## 연락처
 - whjungdev@gmail.com
 - korin57@naver.com
-
 
 네이버 블로그 주소
 https://blog.naver.com/korin57
