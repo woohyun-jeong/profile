@@ -35,6 +35,34 @@
 
 ## 회사 프로젝트
 
+#### 프로젝트 명 : Iot 통합형 안드로이드 앱 개발 (준비 중)
+- 진행 중   
+
+#### 프로젝트 명 : Host 장비를 통한 Iot 기기제어 (HT-home v2.0) 안드로이드 앱 개발 (리뉴얼)
+- 역할      : UI/UX 리뉴얼 
+- 개발 기간 : 2020.04.01 ~ 2020.05.20
+- 개발 내용 :
+1. 기존 HT-home v1.0 UI/UX 리뉴얼 작업
+
+#### 프로젝트 명 : SIP 통화 안드로이드 앱 UI/UX (리뉴얼, 신규)
+- 역할      : UI/UX 리뉴얼, Q버전 이상 대응, 기능 개선, 몽골향 신규 App 런칭
+- 개발 기간 : 2020.02.24 ~ 2020.03.31
+- App 종류
+1. HT Call : 몽골향 SIP App
+https://play.google.com/store/apps/details?id=kr.co.hdtel.mongol.sip&hl=ko
+2. 
+- 개발 내용 :
+1. 기존 SIP 통화 UI/UX 리뉴얼 작업
+2. Q버전 Background 이슈 대응
+3. 기능 개선
+
+#### 프로젝트 명 : 현대건설 안면인식 앱 개발 (프로토타입 - 신규)
+- 역할      : POC 모델 증명할 Android App 개발 
+- 개발 기간 : 2020.02.17 ~ 2020.02.21
+- 개발 내용 :
+1. 얼굴 추적 라이브러리(face tracker) 탑제를 통한 Preview 얼굴인식 기능
+2. 이름 검색을 통한 사용자 정보 찾기 기능
+
 #### 프로젝트 명 : 현대자동차, 기아자동차 AVN 앱 개발 (프로토타입 - 신규)
 - 역할      : POC 모델 증명할 Android App 개발   
 - 개발 기간 : 2017.03.01 ~ 2017.03.31   
@@ -107,8 +135,7 @@ https://play.google.com/store/apps/details?id=com.ht.connected.home.mobile
 1. 얼굴 추적 라이브러리(face tracker) 탑제를 통한 Preview 얼굴인식 기능
 2. 이름 검색을 통한 사용자 정보 찾기 기능
 
-#### 프로젝트 명 : Iot 통합형 안드로이드 앱 개발 (준비 중)
-- 진행 중   
+
 
 #### Toy 프로젝트
 - 얼굴 인식 (Android) https://record-king.tistory.com/19   
