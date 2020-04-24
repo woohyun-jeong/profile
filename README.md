@@ -11,7 +11,7 @@
 1. 낭중지추(囊中之錐) 같은 사람이 되도록 노력하자
 2. 실패를 두려워하지말자.
 - 취미 : 개인 블로그 작성, 스케치, 글쓰는 것을 좋아해서 회사에서도 confluence를 통해 문서 정리를 연습하고 있습니다.
-- 개발 언어 : kotlin, java, c
+- 개발 언어 : kotlin, java, c++, c
 
 -------------
 ## 회사경력
@@ -22,17 +22,27 @@
 #### 프로젝트 명 : Iot 통합형 안드로이드 앱 개발 (준비 중)
 - 진행 중   
 
-#### 프로젝트 명 : Host 장비를 통한 Iot 기기제어 (HT-home v2.0) 안드로이드 앱 개발 (리뉴얼)
-- 역할      : UI/UX 리뉴얼 
+#### 프로젝트 명 : HT-home v2.0 안드로이드 앱 개발 (리뉴얼)
+- 내용      : Host 장비를 통한 Iot Zwave 기기제어 및 부가 서비스 제공
+- 역할      : UI/UX 리뉴얼
+- 기술      : Java, MVP Clean Architecture, FCM, SIP 통화
 - 개발 기간 : 2020.04.01 ~ 2020.05.20
 - 개발 내용 :
 1. 기존 HT-home v1.0 UI/UX 리뉴얼 작업
+- Play Store : 배포 준비 중.
 
 #### 프로젝트 명 : SIP 통화 안드로이드 앱 UI/UX (리뉴얼, 신규)
+- 내용      : 월패드, 경비실기, 로비기와 휴대폰과의 SIP 통화 기능 제공
 - 역할      : UI/UX 리뉴얼, Q버전 이상 대응, 기능 개선, 몽골향 신규 App 런칭
+- 기술      : Java, flavor 구조로 전체 앱 통일화, FCM, SIP 
 - 개발 기간 : 2020.02.24 ~ 2020.03.31
-- App 종류
-1. HT Call : 몽골향 SIP App
+- 개발 내용 :
+1. 기존 SIP 통화 UI/UX 리뉴얼 작업
+2. Q버전 Background 이슈 대응
+3. 기능 개선
+4. flavor를 이용한 전체 프로젝트 통일화
+- Play Store
+1. HT Call : 몽골향 SIP App (신규)
 - https://play.google.com/store/apps/details?id=kr.co.hdtel.mongol.sip&hl=ko
 2. 콜매니저 : 대림건설 SIP App
 - https://play.google.com/store/apps/details?id=kr.co.hdtel.daelimsmarthomesip&hl=ko
@@ -44,21 +54,32 @@
 - https://play.google.com/store/apps/details?id=kr.co.hdtel.daebosip&hl=ko
 6. 통화 매니저 : 대림 VIP SIP App
 - https://play.google.com/store/apps/details?id=kr.co.hdtel.vipsip&hl=ko
-- 개발 내용 :
-1. 기존 SIP 통화 UI/UX 리뉴얼 작업
-2. Q버전 Background 이슈 대응
-3. 기능 개선
-4. flavor를 이용한 전체 프로젝트 통일화
 
 #### 프로젝트 명 : 현대건설 안면인식 앱 개발 (프로토타입 - 신규)
-- 역할      : POC 모델 증명할 Android App 개발 
+- 내용      : 방문자 사진 등록, 목록 조회, 인증 확인
+- 역할      : 서비스의 POC 모델 증명할 Android App 개발 
+- 기술      : Kotlin, MVVM Achitecture, google facetracker, Rxjava, Livedata, koin...
 - 개발 기간 : 2020.02.17 ~ 2020.02.21
 - 개발 내용 :
 1. 얼굴 추적 라이브러리(face tracker) 탑제를 통한 Preview 얼굴인식 기능
 2. 이름 검색을 통한 사용자 정보 찾기 기능
+- Play Store : 없음.
 
-#### 프로젝트 명 : Host 장비를 통한 Iot 기기제어 (HT-home) 안드로이드 앱 개발 (유지보수)
+#### 프로젝트 명 : IMAZU v2.0 안드로이드 앱 개발 (유지보수)
+- 내용      : 월패드 기기제어 및 부가 서비스 제공
+- 역할      : Q버전 대응 및 기존 서비스 유지보수
+- 기술      : Kotlin, MVVM Achitecture, Rxjava
+- 개발 기간 : 2019.11.01 ~ 진행 중
+- 개발 내용 :   
+SIP Q버전 대응
+...
+- Play Store
+https://play.google.com/store/apps/details?id=com.hdtel.imazuhome&hl=ko
+
+#### 프로젝트 명 : HT-home v1.0 안드로이드 앱 개발 (유지보수)
+- 내용      : Host 장비를 통한 Iot 기기제어 및 부가 서비스 제공
 - 역할      : 기존 서비스의 앱 수정 및 기능 추가
+- 기술      : Java, MVP Achitecture, Rxjava
 - 개발 기간 : 2019.11.01 ~ 진행 중
 - 개발 내용 :   
 <HT-home 1.0 안드로이드 앱 개발 참여 (v1.1.6 부터) (신규 + 유지보수)>
@@ -67,19 +88,25 @@
 3. v1.1.8 제어기기 제어 문제 수정
 4. v1.1.9 사이렌 기기 아이콘 수정
 5. v1.2.0 아파트 단지 조회, 히스토리 조회 
-https://play.google.com/store/apps/details?id=com.ht.connected.home.mobile
 6. IPC playback UI 리펙토링, 기능 수정
+...
+- Play Store
+https://play.google.com/store/apps/details?id=com.ht.connected.home.mobile
 
-#### 프로젝트 명 : 일본 운전자 관리 측정자 (HT-care) 안드로이드 앱 개발 (신규)
-- 역할      : UI 개발 및 기능 추가
+#### 프로젝트 명 : HT-care 안드로이드 앱 개발 (신규)
+- 내용      : 일본 운전자 관리 및 헬스케어 측정
+- 역할      : 신규 서비스 제공
+- 기술      : Kotlin, MVVM Achitecture, Rxjava, google facetracker, Livedata
 - 개발 기간 : 2019.09.02 ~ 2020.03.06
 - 개발 내용 :
 1. 얼굴 추적 라이브러리(face tracker) 탑제를 통한 Preview 얼굴인식 기능
 2. 이름 검색을 통한 사용자 정보 찾기 기능
 3. 얼굴, 손가락을 통한 사용자의 헬스케어 측정
 
-#### 프로젝트 명 : 하드웨어 테스트 프로그램 (Jig) 개발 (신규)
-- 역할      : Jig 기능 요구사항 협의 및 기능 추가.   
+#### 프로젝트 명 : Jig 프로그램 개발 (신규)
+- 내용      : 월패드 하드웨어 테스트 프로그램
+- 역할      : Jig 기능 요구사항 협의 및 기능 추가.
+- 기술      : QT Framework UI 개발
 - 개발 기간 : 2018.06.01 ~ 2018.06.30   
 - 개발 내용 :   
 1. internal GPIO, external GPIO 모듈
@@ -87,21 +114,27 @@ https://play.google.com/store/apps/details?id=com.ht.connected.home.mobile
 3. Dot matrix
 
 #### 프로젝트 명 : 포스코향 월패드 개발 (신규)
+- 내용      : 포스코 건설 월패드 개발
 - 역할      : UI 개발 및 Framework 기능 추가 및 수정.   
+- 기술      : QT Framework UI 개발
 - 개발 기간 : 2019.05.01 ~ 2019.09.01   
 - 개발 내용 :   
 1. RS-485 기기제어 UI 기능
 2. TCP/IP 외부 제어기능
 
 #### 프로젝트 명 : 금호향 월패드 개발 (신규)
-- 역할      : UI 개발 및 Framework 기능 추가 및 수정.   
+- 내용      : 금호 건설 월패드 개발
+- 역할      : UI 개발 및 Framework 기능 추가 및 수정.
+- 기술      : QT Framework UI 개발
 - 개발 기간 : 2018.06.01 ~ 2019.04.30   
 - 개발 내용 :   
 1. RS-485 기기제어 UI 기능
 2. TCP/IP 외부 제어기능
 
 #### 프로젝트 명 : 대림향 월패드 개발 (신규)
-- 역할      : UI 개발 및 Framework 기능 추가 및 수정.   
+- 내용      : 대림 건설 월패드 개발
+- 역할      : UI 개발 및 Framework 기능 추가 및 수정.
+- 기술      : QT Framework UI 개발
 - 개발 기간 : 2017.05.01 ~ 2018.05.31   
 - 개발 내용 :   
 1. 단지 서비스 UI 기능
@@ -116,6 +149,7 @@ https://play.google.com/store/apps/details?id=com.ht.connected.home.mobile
 1. 단지서비스 UI 기능
 
 #### 프로젝트 명 : 현대자동차, 기아자동차 AVN 앱 개발 (프로토타입 - 신규)
+- 내용      : 2017 모터쇼 현대자동차, 기아자동차 카투홈 서비스 POC 모델
 - 역할      : POC 모델 증명할 Android App 개발   
 - 개발 기간 : 2017.03.01 ~ 2017.03.31   
 - 참고 자료 :   
