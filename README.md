@@ -12,7 +12,6 @@
 2. 실패를 두려워하지말자.
 - 취미 : 개인 블로그 작성, 스케치, 글쓰는 것을 좋아해서 회사에서도 confluence를 통해 문서 정리를 연습하고 있습니다.
 - 개발 언어 : kotlin, java, c
--------------
 
 -------------
 ## 회사경력
@@ -123,7 +122,7 @@ https://play.google.com/store/apps/details?id=com.ht.connected.home.mobile
 https://tv.hmgjournal.com/MediaCenter/News/Group-Broadcast/news-01-170406.blg (현대그룹 TV)
 http://www.consumerwide.com/news/articleView.html?idxno=14809 (㈜컨슈머와이드 뉴스)
 
-
+-------------
 ## 대학교 프로젝트
 #### 프로젝트 명 : 스마트 어항관리
 - 역할      : 파이 3.14 Iot 동아리장 및 개발   
