@@ -14,21 +14,6 @@
 - 개발 언어 : kotlin, java, c
 -------------
 
-
-## 대학교 프로젝트
-#### 프로젝트 명 : 스마트 어항관리
-- 역할      : 파이 3.14 Iot 동아리장 및 개발   
-- 개발 기간 : 2016.06.27 ~ 2016.07.10   
-- 개발 내용 : https://github.com/woohyun-jeong/iot-smartfishbowl   
-
-#### 프로젝트 명 : 부산외국어대학교 다문화 사업단 다문화 가정 설문조사
-- 역할      : 설문조사 App 개발   
-- 개발 기간 : 2016.11.01 ~ 2016.12.05   
-- 개발 내용 : 프로토타입 개발 후 다문화 사업단에 개발 인계하여 개발 저작권을 양도함.   
-
-#### 그외 소규모 프로젝트들
-- 개발 내용 : https://blog.naver.com/korin57 프로젝트 카테고리   
-
 -------------
 ## 회사경력
 - 현대통신(주) Iot팀 전임 연구원 / Android App 개발 / 2017.01.09 ~ 현재 재직 중
@@ -49,12 +34,22 @@
 - 개발 기간 : 2020.02.24 ~ 2020.03.31
 - App 종류
 1. HT Call : 몽골향 SIP App
-https://play.google.com/store/apps/details?id=kr.co.hdtel.mongol.sip&hl=ko
-2. 
+- https://play.google.com/store/apps/details?id=kr.co.hdtel.mongol.sip&hl=ko
+2. 콜매니저 : 대림건설 SIP App
+- https://play.google.com/store/apps/details?id=kr.co.hdtel.daelimsmarthomesip&hl=ko
+3. IMAZU 통화 : 현대통신 SIP App
+- https://play.google.com/store/apps/details?id=kr.co.hdtel.hyundai.sip&hl=ko
+4. 예미지 통화 : 금성백조 SIP App
+- https://play.google.com/store/apps/details?id=kr.co.hdtel.ksbjsip&hl=ko
+5. hausD 통화 : 대보하우스디 SIP App
+- https://play.google.com/store/apps/details?id=kr.co.hdtel.daebosip&hl=ko
+6. 통화 매니저 : 대림 VIP SIP App
+- https://play.google.com/store/apps/details?id=kr.co.hdtel.vipsip&hl=ko
 - 개발 내용 :
 1. 기존 SIP 통화 UI/UX 리뉴얼 작업
 2. Q버전 Background 이슈 대응
 3. 기능 개선
+4. flavor를 이용한 전체 프로젝트 통일화
 
 #### 프로젝트 명 : 현대건설 안면인식 앱 개발 (프로토타입 - 신규)
 - 역할      : POC 모델 증명할 Android App 개발 
@@ -63,34 +58,26 @@ https://play.google.com/store/apps/details?id=kr.co.hdtel.mongol.sip&hl=ko
 1. 얼굴 추적 라이브러리(face tracker) 탑제를 통한 Preview 얼굴인식 기능
 2. 이름 검색을 통한 사용자 정보 찾기 기능
 
-#### 프로젝트 명 : 현대자동차, 기아자동차 AVN 앱 개발 (프로토타입 - 신규)
-- 역할      : POC 모델 증명할 Android App 개발   
-- 개발 기간 : 2017.03.01 ~ 2017.03.31   
-- 참고 자료 :   
-https://tv.hmgjournal.com/MediaCenter/News/Group-Broadcast/news-01-170406.blg (현대그룹 TV)
-http://www.consumerwide.com/news/articleView.html?idxno=14809 (㈜컨슈머와이드 뉴스)
-
-#### 프로젝트 명 : 현대건설 버스정보 시스템 개발 (신규)
-- 역할      : UI 개발 및 Framework 기능 추가.   
-- 개발 기간 : 2017.04.01 ~ 2017.04.30   
+#### 프로젝트 명 : Host 장비를 통한 Iot 기기제어 (HT-home) 안드로이드 앱 개발 (유지보수)
+- 역할      : 기존 서비스의 앱 수정 및 기능 추가
+- 개발 기간 : 2019.11.01 ~ 진행 중
 - 개발 내용 :   
-1. 단지서비스 UI 기능
+<HT-home 1.0 안드로이드 앱 개발 참여 (v1.1.6 부터) (신규 + 유지보수)>
+1. v1.1.6 디밍, 커튼, 가스 수정
+2. v1.1.7 사이렌 기기 추가
+3. v1.1.8 제어기기 제어 문제 수정
+4. v1.1.9 사이렌 기기 아이콘 수정
+5. v1.2.0 아파트 단지 조회, 히스토리 조회 
+https://play.google.com/store/apps/details?id=com.ht.connected.home.mobile
+6. IPC playback UI 리펙토링, 기능 수정
 
-#### 프로젝트 명 : 대림향 월패드 개발 (신규)
-- 역할      : UI 개발 및 Framework 기능 추가 및 수정.   
-- 개발 기간 : 2017.05.01 ~ 2018.05.31   
-- 개발 내용 :   
-1. 단지 서비스 UI 기능
-2. RS-485 기기제어 UI 기능
-3. TCP/IP 외부 제어기능
-4. SIP 다자간 통화 기능 추가 (세대간, 도어 모니터링)
-
-#### 프로젝트 명 : 금호향 월패드 개발 (신규)
-- 역할      : UI 개발 및 Framework 기능 추가 및 수정.   
-- 개발 기간 : 2018.06.01 ~ 2019.04.30   
-- 개발 내용 :   
-1. RS-485 기기제어 UI 기능
-2. TCP/IP 외부 제어기능
+#### 프로젝트 명 : 일본 운전자 관리 측정자 (HT-care) 안드로이드 앱 개발 (신규)
+- 역할      : UI 개발 및 기능 추가
+- 개발 기간 : 2019.09.02 ~ 2020.03.06
+- 개발 내용 :
+1. 얼굴 추적 라이브러리(face tracker) 탑제를 통한 Preview 얼굴인식 기능
+2. 이름 검색을 통한 사용자 정보 찾기 기능
+3. 얼굴, 손가락을 통한 사용자의 헬스케어 측정
 
 #### 프로젝트 명 : 하드웨어 테스트 프로그램 (Jig) 개발 (신규)
 - 역할      : Jig 기능 요구사항 협의 및 기능 추가.   
@@ -107,34 +94,49 @@ http://www.consumerwide.com/news/articleView.html?idxno=14809 (㈜컨슈머와�
 1. RS-485 기기제어 UI 기능
 2. TCP/IP 외부 제어기능
 
-#### 프로젝트 명 : 일본 운전자 관리 측정자 (HT-care) 안드로이드 앱 개발 (신규)
-- 역할      : UI 개발 및 기능 추가
-- 개발 기간 : 2019.09.02 ~ 2020.03.06
-- 개발 내용 :
-1. 얼굴 추적 라이브러리(face tracker) 탑제를 통한 Preview 얼굴인식 기능
-2. 이름 검색을 통한 사용자 정보 찾기 기능
-3. 얼굴, 손가락을 통한 사용자의 헬스케어 측정
-
-#### 프로젝트 명 : Host 장비를 통한 Iot 기기제어 (HT-home) 안드로이드 앱 개발 (유지보수)
-- 역할      : 기존 서비스의 앱 수정 및 기능 추가
-- 개발 기간 : 2019.11.01 ~ 진행 중
+#### 프로젝트 명 : 금호향 월패드 개발 (신규)
+- 역할      : UI 개발 및 Framework 기능 추가 및 수정.   
+- 개발 기간 : 2018.06.01 ~ 2019.04.30   
 - 개발 내용 :   
-<HT-home 1.0 안드로이드 앱 개발 참여 (v1.1.6 부터) (신규 + 유지보수)>
-1. v1.1.6 디밍, 커튼, 가스 수정
-2. v1.1.7 사이렌 기기 추가
-3. v1.1.8 제어기기 제어 문제 수정
-4. v1.1.9 사이렌 기기 아이콘 수정
-5. v1.2.0 아파트 단지 조회, 히스토리 조회 
-https://play.google.com/store/apps/details?id=com.ht.connected.home.mobile
-6. IPC playback UI 리펙토링, 기능 수정
+1. RS-485 기기제어 UI 기능
+2. TCP/IP 외부 제어기능
 
-#### 프로젝트 명 : 현대건설 안면인식 앱 개발 (프로토타입 - 신규)
-- 역할      : POC 모델 증명할 Android App 개발 
-- 개발 기간 : 2020.02.17 ~ 2020.02.21
-- 개발 내용 :
-1. 얼굴 추적 라이브러리(face tracker) 탑제를 통한 Preview 얼굴인식 기능
-2. 이름 검색을 통한 사용자 정보 찾기 기능
+#### 프로젝트 명 : 대림향 월패드 개발 (신규)
+- 역할      : UI 개발 및 Framework 기능 추가 및 수정.   
+- 개발 기간 : 2017.05.01 ~ 2018.05.31   
+- 개발 내용 :   
+1. 단지 서비스 UI 기능
+2. RS-485 기기제어 UI 기능
+3. TCP/IP 외부 제어기능
+4. SIP 다자간 통화 기능 추가 (세대간, 도어 모니터링)
 
+#### 프로젝트 명 : 현대건설 버스정보 시스템 개발 (신규)
+- 역할      : UI 개발 및 Framework 기능 추가.   
+- 개발 기간 : 2017.04.01 ~ 2017.04.30   
+- 개발 내용 :   
+1. 단지서비스 UI 기능
+
+#### 프로젝트 명 : 현대자동차, 기아자동차 AVN 앱 개발 (프로토타입 - 신규)
+- 역할      : POC 모델 증명할 Android App 개발   
+- 개발 기간 : 2017.03.01 ~ 2017.03.31   
+- 참고 자료 :   
+https://tv.hmgjournal.com/MediaCenter/News/Group-Broadcast/news-01-170406.blg (현대그룹 TV)
+http://www.consumerwide.com/news/articleView.html?idxno=14809 (㈜컨슈머와이드 뉴스)
+
+
+## 대학교 프로젝트
+#### 프로젝트 명 : 스마트 어항관리
+- 역할      : 파이 3.14 Iot 동아리장 및 개발   
+- 개발 기간 : 2016.06.27 ~ 2016.07.10   
+- 개발 내용 : https://github.com/woohyun-jeong/iot-smartfishbowl   
+
+#### 프로젝트 명 : 부산외국어대학교 다문화 사업단 다문화 가정 설문조사
+- 역할      : 설문조사 App 개발   
+- 개발 기간 : 2016.11.01 ~ 2016.12.05   
+- 개발 내용 : 프로토타입 개발 후 다문화 사업단에 개발 인계하여 개발 저작권을 양도함.   
+
+#### 그외 소규모 프로젝트들
+- 개발 내용 : https://blog.naver.com/korin57 프로젝트 카테고리   
 
 
 #### Toy 프로젝트
