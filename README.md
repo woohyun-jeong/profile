@@ -102,6 +102,8 @@ https://play.google.com/store/apps/details?id=com.ht.connected.home.mobile
 1. 얼굴 추적 라이브러리(face tracker) 탑제를 통한 Preview 얼굴인식 기능
 2. 이름 검색을 통한 사용자 정보 찾기 기능
 3. 얼굴, 손가락을 통한 사용자의 헬스케어 측정
+- Play Store
+https://play.google.com/store/apps/details?id=kr.co.hdtel.htcare
 
 #### 프로젝트 명 : Jig 프로그램 개발 (신규)
 - 내용      : 월패드 하드웨어 테스트 프로그램
