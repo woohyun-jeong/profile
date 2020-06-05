@@ -32,8 +32,8 @@
 - 기술      : Java, MVP Clean Architecture, FCM, SIP 통화
 - 개발 기간 : 2020.04.01 ~ 2020.05.20
 - 개발 내용 :
-1. 기존 HT-home v1.0 UI/UX 리뉴얼 작업
-- Play Store : 배포 준비 중.
+1. 기존 HT-home v1.0 UI/UX 리뉴얼 작업 및 기능 추가
+- 구글 맵 연동, 
 
 #### 프로젝트 명 : SIP 통화 안드로이드 앱 UI/UX (리뉴얼, 신규)
 - 내용      : 월패드, 경비실기, 로비기와 휴대폰과의 SIP 통화 기능 제공
