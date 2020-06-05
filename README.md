@@ -3,7 +3,7 @@
 ## 소개
 > **이름** : 정우현   
 > **나이** : 29   
-> **취미** : 개인 블로그 작성, 스케치, 영화 보기   
+> **취미** : 개인 블로그 작성, 스케치, 영화 보기, 등산, 헬스,    
 > **가치관**   
 
 	낭중지추(囊中之錐) 같은 사람이 되도록 노력하자   
@@ -107,33 +107,34 @@
 >https://play.google.com/store/apps/details?id=com.hdtel.imazuhome&hl=ko   
 
 #### 프로젝트 명 : HT-home v1.0 안드로이드 앱 개발 (유지보수)
-- 내용      : Host 장비를 통한 Iot 기기제어 및 부가 서비스 제공
-- 역할      : 기존 서비스의 앱 수정 및 기능 추가
-- 기술      : Java, MVP Achitecture, Rxjava
-- 개발 기간 : 2019.11.01 ~ 진행 중
-- 개발 내용 :   
-<HT-home 1.0 안드로이드 앱 개발 참여 (v1.1.6 부터) (신규 + 유지보수)>
-1. v1.1.6 디밍, 커튼, 가스 수정
-2. v1.1.7 사이렌 기기 추가
-3. v1.1.8 제어기기 제어 문제 수정
-4. v1.1.9 사이렌 기기 아이콘 수정
-5. v1.2.0 아파트 단지 조회, 히스토리 조회 
-6. IPC playback UI 리펙토링, 기능 수정
-...
-- Play Store
-https://play.google.com/store/apps/details?id=com.ht.connected.home.mobile
+> **내용** : Host 장비를 통한 Iot 기기제어 및 부가 서비스 제공   
+> **역할** : 기존 서비스의 앱 수정 및 기능 추가    
+> **기술** : Java, MVP Achitecture, Rxjava   
+> **개발 기간** : 2019.11.01 ~ 진행 중
+> **개발 내용**      
+
+	* HT-home 1.0 안드로이드 앱 개발 참여 (v1.1.6 부터) (신규 + 유지보수)
+	1. v1.1.6 디밍, 커튼, 가스 수정
+	2. v1.1.7 사이렌 기기 추가
+	3. v1.1.8 제어기기 제어 문제 수정
+	4. v1.1.9 사이렌 기기 아이콘 수정
+	5. v1.2.0 아파트 단지 조회, 히스토리 조회 
+	6. IPC playback UI 리펙토링, 기능 수정
+> **Play Store**   
+>https://play.google.com/store/apps/details?id=com.ht.connected.home.mobile   
 
 #### 프로젝트 명 : HT-care 안드로이드 앱 개발 (신규)
-- 내용      : 일본 운전자 관리 및 헬스케어 측정
-- 역할      : 신규 서비스 제공
-- 기술      : Kotlin, MVVM Achitecture, Rxjava, google facetracker, Livedata
-- 개발 기간 : 2019.09.02 ~ 2020.03.06
-- 개발 내용 :
-1. 얼굴 추적 라이브러리(face tracker) 탑제를 통한 Preview 얼굴인식 기능
-2. 이름 검색을 통한 사용자 정보 찾기 기능
-3. 얼굴, 손가락을 통한 사용자의 헬스케어 측정
-- Play Store
-https://play.google.com/store/apps/details?id=kr.co.hdtel.htcare
+> **내용** : 일본 운전자 관리 및 헬스케어 측정   
+> **역할** : 신규 서비스 제공   
+> **기술** : Kotlin, MVVM Achitecture, Rxjava, google facetracker, Livedata   
+> **개발 기간** : 2019.09.02 ~ 2020.03.06   
+> **개발 내용**   
+
+	1. 얼굴 추적 라이브러리(face tracker) 탑제를 통한 Preview 얼굴인식 기능
+	2. 이름 검색을 통한 사용자 정보 찾기 기능
+	3. 얼굴, 손가락을 통한 사용자의 헬스케어 측정
+> **Play Store**   
+>https://play.google.com/store/apps/details?id=kr.co.hdtel.htcare   
 
 #### 프로젝트 명 : Jig 프로그램 개발 (신규)
 - 내용      : 월패드 하드웨어 테스트 프로그램
