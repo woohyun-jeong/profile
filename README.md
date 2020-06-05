@@ -59,8 +59,8 @@
 > **기술** : java, flavor 구조로 전체 앱 통일화, FCM, SIP    
 > **개발 기간** : 2020.02.24 ~ 2020.03.31   
 > **개발 내용**   
->>1. 기존 SIP 통화 UI/UX 리뉴얼 작업   
->>2. Q버전 Background 이슈 대응   
+>	1. 기존 SIP 통화 UI/UX 리뉴얼 작업   
+>	2. Q버전 Background 이슈 대응   
 >>3. 기능 개선   
 >>4. flavor를 이용한 전체 프로젝트 통일화   
 > **Play Store**   
