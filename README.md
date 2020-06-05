@@ -117,7 +117,7 @@
 > **내용** : Host 장비를 통한 Iot 기기제어 및 부가 서비스 제공   
 > **역할** : 기존 서비스의 앱 수정 및 기능 추가    
 > **기술** : Java, MVP Achitecture, Rxjava   
-> **개발 기간** : 2019.11.01 ~ 진행 중
+> **개발 기간** : 2019.11.01 ~ 진행 중   
 > **개발 내용**      
 
 	* HT-home 1.0 안드로이드 앱 개발 참여 (v1.1.6 부터) (신규 + 유지보수)
@@ -242,8 +242,8 @@
 https://play.google.com/store/apps/developer?id=HYUNDAI+TELECOM
 
 ## 연락처
-> whjungdev@gmail.com     
-> korin57@naver.com    
+> **구글 메일** : whjungdev@gmail.com     
+> **네이버 메일** : korin57@naver.com    
 > **네이버 블로그 주소** : https://blog.naver.com/korin57    
 > **T Story 주소** : https://record-king.tistory.com/    
 > **LinkedIn** : https://www.linkedin.com/in/우현-정-1aaa09142    
