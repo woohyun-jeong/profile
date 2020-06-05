@@ -1,73 +1,94 @@
 # profile
 
 ## 소개
-- 이름 : 정우현
-- 나이 : 29
-- 군필 : 51사단 168연대 암호병 (2012.04.02 ~ 2014.01.01)
-- 고등학교 : 부산 대연고등학교 / 인문고 / 지역 : 부산 남구
-- 대학교 : 부산 외국어대학교 임베디드 소프트웨어 학과 / 소재지 : 부산 금정구
-- 대학교 평점 : 전체 평점 (3.86/4.50) / 이수 전공학점(66) 평균 전공학점 (4.11/4.50) 
-- 가치관 : 
-1. 낭중지추(囊中之錐) 같은 사람이 되도록 노력하자
-2. 실패를 두려워하지말자.
-- 취미 : 개인 블로그 작성, 스케치, 글쓰는 것을 좋아해서 회사에서도 confluence를 통해 문서 정리를 연습하고 있습니다.
-- 개발 언어 : kotlin, java, c++, c
+> 이름 : 정우현   
+> 나이 : 29   
+> 가치관   
+>> 낭중지추(囊中之錐) 같은 사람이 되도록 노력하자   
+>> 실패를 두려워하지말자.   
+> 취미 : 개인 블로그 작성, 스케치, 글쓰는 것을 좋아해서 회사에서도 confluence를 통해 문서 정리를 연습하고 있습니다.   
+> 개발 언어 : kotlin, java, c++, c   
 
 -------------
 ## 회사경력
-- 현대통신(주) Iot팀 전임 연구원 / Android App 개발 / 2017.01.09 ~ 현재 재직 중
+> 현대통신(주) Iot팀 전임 연구원 / Android App 개발 / 2017.01.09 ~ 현재 재직 중   
 
 ## 학력
-- 부산 대연고등학교 졸업 (2008.03.04 ~ 2011.02.10)
-- 부산 외국어대학교 졸업 (2011.03.02 ~ 2017.02.17)
+> 대학교 평점 : 전체 평점 (3.86/4.50) / 이수 전공학점(66) 평균 전공학점 (4.11/4.50)    
+> 부산 외국어대학교 임베디드 소프트웨어 학과 / 소재지 : 부산 금정구 (2011.03.02 ~ 2017.02.17)
+> 군필 : 51사단 168연대 암호병 (2012.04.02 ~ 2014.01.01)   
+> 부산 대연고등학교 / 인문고 / 지역 : 부산 남구 (2008.03.04 ~ 2011.02.10)
+
+## 사용기술
+### Android
+> kotlin, java   
+> rxJava, coroutine   
+> architecture : MVVM pattern, MVP & clean architecture   
+> Jenkins 자동화 빌드 구축   
+> Firebase Crashlytics    
+> Firebase Remote config   
+> Firebase Cloud Message   
+> Jitpack   
+> espresso (UI Test)   
+> library : glide, retrofit2, anko, eventbus, databinding...   
+<br/>
+
+### Process
+> 소스 관리 : Github / SVN / gitolite    
+> 이슈 분석 : Jira(애자일 / 스프린트 / 칸반) / redmin      
+> 앱 크래시 분석 : Firebase Analytics   
+> 회사 메신저 : slack, skype   
+> CI/CD 빌드 자동화 : jenkins   
+> 코드 품질 테스트 : jenkins SonarQube   
+> 협업 툴 : confluence, zeplin   
+> 코드 리뷰 : pull request and merge request into 2 approve.   
 
 ## 회사 프로젝트
 
 #### 프로젝트 명 : Iot 통합형 안드로이드 앱 개발 (준비 중)
-- 진행 중   
+> 진행 중   
 
 #### 프로젝트 명 : HT-home v2.0 안드로이드 앱 개발 (리뉴얼)
-- 내용      : Host 장비를 통한 Iot Zwave 기기제어 및 부가 서비스 제공
-- 역할      : UI/UX 리뉴얼
-- 기술      : Java, MVP Clean Architecture, FCM, SIP 통화
-- 개발 기간 : 2020.04.01 ~ 2020.05.20
-- 개발 내용 :
-1. 기존 HT-home v1.0 UI/UX 리뉴얼 작업 및 기능 추가
-- 구글 맵 연동, 
+> 내용 : Host 장비를 통한 Iot Zwave 기기제어 및 부가 서비스 제공   
+> 역할 : UI/UX 리뉴얼 및 추가 기능 구현   
+> 기술 : java, MVP Clean Architecture, FCM, SIP 통화   
+> 개발 기간 : 2020.04.01 ~ 2020.05.20   
+> 개발 내용   
+>>기존 HT-home v1.0 UI/UX 리뉴얼 작업 및 추가 기능 구현   
 
 #### 프로젝트 명 : SIP 통화 안드로이드 앱 UI/UX (리뉴얼, 신규)
-- 내용      : 월패드, 경비실기, 로비기와 휴대폰과의 SIP 통화 기능 제공
-- 역할      : UI/UX 리뉴얼, Q버전 이상 대응, 기능 개선, 몽골향 신규 App 런칭
-- 기술      : Java, flavor 구조로 전체 앱 통일화, FCM, SIP 
-- 개발 기간 : 2020.02.24 ~ 2020.03.31
-- 개발 내용 :
-1. 기존 SIP 통화 UI/UX 리뉴얼 작업
-2. Q버전 Background 이슈 대응
-3. 기능 개선
-4. flavor를 이용한 전체 프로젝트 통일화
-- Play Store
-1. HT Call : 몽골향 SIP App (신규)
-- https://play.google.com/store/apps/details?id=kr.co.hdtel.mongol.sip&hl=ko
-2. 콜매니저 : 대림건설 SIP App
-- https://play.google.com/store/apps/details?id=kr.co.hdtel.daelimsmarthomesip&hl=ko
-3. IMAZU 통화 : 현대통신 SIP App
-- https://play.google.com/store/apps/details?id=kr.co.hdtel.hyundai.sip&hl=ko
-4. 예미지 통화 : 금성백조 SIP App
-- https://play.google.com/store/apps/details?id=kr.co.hdtel.ksbjsip&hl=ko
-5. hausD 통화 : 대보하우스디 SIP App
-- https://play.google.com/store/apps/details?id=kr.co.hdtel.daebosip&hl=ko
-6. 통화 매니저 : 대림 VIP SIP App
-- https://play.google.com/store/apps/details?id=kr.co.hdtel.vipsip&hl=ko
+> 내용 : 월패드, 경비실기, 로비기와 휴대폰과의 SIP 통화 기능 제공   
+> 역할 : UI/UX 리뉴얼, Q버전 이상 대응, 기능 개선, 몽골향 신규 App 런칭   
+> 기술 : java, flavor 구조로 전체 앱 통일화, FCM, SIP    
+> 개발 기간 : 2020.02.24 ~ 2020.03.31   
+> 개발 내용   
+>>1. 기존 SIP 통화 UI/UX 리뉴얼 작업   
+>>2. Q버전 Background 이슈 대응   
+>>3. 기능 개선   
+>>4. flavor를 이용한 전체 프로젝트 통일화   
+> Play Store   
+>>1. HT Call : 몽골향 SIP App (신규)  
+>>https://play.google.com/store/apps/details?id=kr.co.hdtel.mongol.sip&hl=ko   
+>>2. 콜매니저 : 대림건설 SIP App   
+>>https://play.google.com/store/apps/details?id=kr.co.hdtel.daelimsmarthomesip&hl=ko   
+>>3. IMAZU 통화 : 현대통신 SIP App   
+>>https://play.google.com/store/apps/details?id=kr.co.hdtel.hyundai.sip&hl=ko   
+>>4. 예미지 통화 : 금성백조 SIP App   
+>>https://play.google.com/store/apps/details?id=kr.co.hdtel.ksbjsip&hl=ko   
+>>5. hausD 통화 : 대보하우스디 SIP App   
+>>https://play.google.com/store/apps/details?id=kr.co.hdtel.daebosip&hl=ko   
+>>6. 통화 매니저 : 대림 VIP SIP App   
+>>https://play.google.com/store/apps/details?id=kr.co.hdtel.vipsip&hl=ko   
 
 #### 프로젝트 명 : 현대건설 안면인식 앱 개발 (프로토타입 - 신규)
-- 내용      : 방문자 사진 등록, 목록 조회, 인증 확인
-- 역할      : 서비스의 POC 모델 증명할 Android App 개발 
-- 기술      : Kotlin, MVVM Achitecture, google facetracker, Rxjava, Livedata, koin...
-- 개발 기간 : 2020.02.17 ~ 2020.02.21
-- 개발 내용 :
-1. 얼굴 추적 라이브러리(face tracker) 탑제를 통한 Preview 얼굴인식 기능
-2. 이름 검색을 통한 사용자 정보 찾기 기능
-- Play Store : 없음.
+> 내용 : 방문자 사진 등록, 목록 조회, 인증 확인   
+> 역할 : 서비스의 POC 모델 증명할 Android App 개발    
+> 기술      : Kotlin, MVVM Achitecture, google facetracker, Rxjava, Livedata, koin...      
+> 개발 기간 : 2020.02.17 ~ 2020.02.21   
+> 개발 내용   
+>>1. 얼굴 추적 라이브러리(face tracker) 탑제를 통한 Preview 얼굴인식 기능   
+>>2. 이름 검색을 통한 사용자 정보 찾기 기능   
+> Play Store : 없음.   
 
 #### 프로젝트 명 : IMAZU v2.0 안드로이드 앱 개발 (유지보수)
 - 내용      : 월패드 기기제어 및 부가 서비스 제공
@@ -194,36 +215,13 @@ http://www.consumerwide.com/news/articleView.html?idxno=14809 (㈜컨슈머와�
 - 리눅스마스터 2급 / 등록번호 : LMS1603001020 / 발행기관 : 한국정보통신산업협회부설 한국정보통신인력개발센터 / 취득일자 : 2016-09-23
 - 네트워크 관리사 2급 / 등록번호 : NT2034753 / 발행기관 : 한국정보통신자격협회 / 취득일자 : 2016-09-13
 
-## 사용기술
-### Android
-- kotlin, java
-- rxJava
-- architecture : MVVM pattern, MVP & clean architecture
-- bitrise + fabric (CI/CD) - fabric 2020년 3월 31일 부로 지원 종료. firebase 사용해야함.
-- Firebase Crashlytics 
-- Firebase Remote config
-- Firebase Cloud Message
-- Jitpack
-- Robolectric (TDD) - 확인만하고 실무에 적용해보지 않음
-- library : glide, retrofit2, anko, eventbus, databinding...
-open source library 학습은 추후에 정리할 예정.
-<br/>
 
-### Process
-- crash monitoring - Fabric / Google Analytics
-- messenger - slack, skype
-- issue tracker - Github / Jira(애자일 / 스프린트 / 칸반) / Trello / redmine
-- CI/CD - bitrise / fabric / SonarQube - 확인만하고 실무에 적용해보지 않음.
-- jenkins 빌드서버 구축 중.
-- SCM(Software Configuration Management) - svn, github, gitolite
-- collaboration tools - confluence, zeplin
-- code review - pull request and merge request into 2 approve.
 
 ### 수상 실적
-- 현대통신 모범사원 표창장 (2017.12.31)   
+> 현대통신 모범사원 표창장 (2017.12.31)   
 <img src="https://github.com/woohyun-jeong/profile/blob/master/%EB%AA%A8%EB%B2%94%EC%82%AC%EC%9B%90%EC%83%81.jpg" width="400"></img>   
 <img src="https://github.com/woohyun-jeong/profile/blob/master/%EB%A7%88%ED%8C%A8.jpg" width="400"></img>  
-- 현대통신 창립20주년 공로상 (2018.4.25)   
+> 현대통신 창립20주년 공로상 (2018.4.25)   
 <img src="https://github.com/woohyun-jeong/profile/blob/master/%EA%B3%B5%EB%A1%9C%EC%83%81.jpg" width="400"></img>   
 <img src="https://github.com/woohyun-jeong/profile/blob/master/%EC%97%B4%EC%87%A0.jpg" width="400"></img>   
 
