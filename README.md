@@ -54,7 +54,9 @@
 > **개발 기간** : 2020.04.01 ~ 2020.05.20   
 > **개발 내용**   
 	
-	기존 HT-home v1.0 UI/UX 리뉴얼 작업 및 추가 기능 구현   
+	기존 HT-home v1.0 UI/UX 리뉴얼 작업 및 추가 기능 구현   	
+> **Play Store**   
+>https://play.google.com/store/apps/details?id=com.ht.connected.home.mobile   
 
 #### 프로젝트 명 : SIP 통화 안드로이드 앱 UI/UX (리뉴얼, 신규)
 > **내용** : 월패드, 경비실기, 로비기와 휴대폰과의 SIP 통화 기능 제공   
@@ -68,39 +70,41 @@
 	3. 기능 개선   
 	4. flavor를 이용한 전체 프로젝트 통일화   
 > **Play Store**   
->1. HT Call : 몽골향 SIP App (신규)  
+>1. **HT Call** : 몽골향 SIP App (신규)  
 >https://play.google.com/store/apps/details?id=kr.co.hdtel.mongol.sip&hl=ko   
->2. 콜매니저 : 대림건설 SIP App   
+>2. **콜매니저** : 대림건설 SIP App   
 >https://play.google.com/store/apps/details?id=kr.co.hdtel.daelimsmarthomesip&hl=ko    
->3. IMAZU 통화 : 현대통신 SIP App   
+>3. **IMAZU 통화** : 현대통신 SIP App   
 >https://play.google.com/store/apps/details?id=kr.co.hdtel.hyundai.sip&hl=ko    
->4. 예미지 통화 : 금성백조 SIP App    
+>4. **예미지 통화** : 금성백조 SIP App    
 >https://play.google.com/store/apps/details?id=kr.co.hdtel.ksbjsip&hl=ko      
->5. hausD 통화 : 대보하우스디 SIP App    
+>5. **hausD 통화** : 대보하우스디 SIP App    
 >https://play.google.com/store/apps/details?id=kr.co.hdtel.daebosip&hl=ko      
->6. 통화 매니저 : 대림 VIP SIP App     
+>6. **통화 매니저** : 대림 VIP SIP App     
 >https://play.google.com/store/apps/details?id=kr.co.hdtel.vipsip&hl=ko    
 
 #### 프로젝트 명 : 현대건설 안면인식 앱 개발 (프로토타입 - 신규)
-> 내용 : 방문자 사진 등록, 목록 조회, 인증 확인   
-> 역할 : 서비스의 POC 모델 증명할 Android App 개발    
-> 기술      : Kotlin, MVVM Achitecture, google facetracker, Rxjava, Livedata, koin...      
-> 개발 기간 : 2020.02.17 ~ 2020.02.21   
-> 개발 내용   
->>1. 얼굴 추적 라이브러리(face tracker) 탑제를 통한 Preview 얼굴인식 기능   
->>2. 이름 검색을 통한 사용자 정보 찾기 기능   
-> Play Store : 없음.   
+> **내용** : 방문자 사진 등록, 목록 조회, 인증 확인   
+> **역할** : 서비스의 POC 모델 증명할 Android App 개발    
+> **기술** : Kotlin, MVVM Achitecture, google facetracker, Rxjava, Livedata, koin...        
+> **개발 기간** : 2020.02.17 ~ 2020.02.21    
+> **개발 내용**    
+
+	1. 얼굴 추적 라이브러리(face tracker) 탑제를 통한 Preview 얼굴인식 기능   
+	2. 이름 검색을 통한 사용자 정보 찾기 기능   
+> **Play Store**   
+> 없음.   
 
 #### 프로젝트 명 : IMAZU v2.0 안드로이드 앱 개발 (유지보수)
-- 내용      : 월패드 기기제어 및 부가 서비스 제공
-- 역할      : Q버전 대응 및 기존 서비스 유지보수
-- 기술      : Kotlin, MVVM Achitecture, Rxjava
-- 개발 기간 : 2019.11.01 ~ 진행 중
-- 개발 내용 :   
-SIP Q버전 대응
-...
-- Play Store
-https://play.google.com/store/apps/details?id=com.hdtel.imazuhome&hl=ko
+> **내용** : 월패드 기기제어 및 부가 서비스 제공    
+> **역할** : Q버전 대응 및 기존 서비스 유지보수   
+> **기술** : Kotlin, MVVM Achitecture, Rxjava   
+> **개발 기간** : 2019.11.01 ~ 진행 중   
+> **개발 내용**   
+	
+	SIP Q버전 대응
+> **Play Store**   
+>https://play.google.com/store/apps/details?id=com.hdtel.imazuhome&hl=ko   
 
 #### 프로젝트 명 : HT-home v1.0 안드로이드 앱 개발 (유지보수)
 - 내용      : Host 장비를 통한 Iot 기기제어 및 부가 서비스 제공
