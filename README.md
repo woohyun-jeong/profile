@@ -71,15 +71,15 @@
 >1. HT Call : 몽골향 SIP App (신규)  
 >https://play.google.com/store/apps/details?id=kr.co.hdtel.mongol.sip&hl=ko   
 >2. 콜매니저 : 대림건설 SIP App   
->https://play.google.com/store/apps/details?id=kr.co.hdtel.daelimsmarthomesip&hl=ko   
-	3. IMAZU 통화 : 현대통신 SIP App   
-	https://play.google.com/store/apps/details?id=kr.co.hdtel.hyundai.sip&hl=ko   
-	4. 예미지 통화 : 금성백조 SIP App   
-	https://play.google.com/store/apps/details?id=kr.co.hdtel.ksbjsip&hl=ko   
-	5. hausD 통화 : 대보하우스디 SIP App   
-	https://play.google.com/store/apps/details?id=kr.co.hdtel.daebosip&hl=ko   
-	6. 통화 매니저 : 대림 VIP SIP App   
-	https://play.google.com/store/apps/details?id=kr.co.hdtel.vipsip&hl=ko   
+>https://play.google.com/store/apps/details?id=kr.co.hdtel.daelimsmarthomesip&hl=ko    
+>3. IMAZU 통화 : 현대통신 SIP App   
+>https://play.google.com/store/apps/details?id=kr.co.hdtel.hyundai.sip&hl=ko    
+>4. 예미지 통화 : 금성백조 SIP App    
+>https://play.google.com/store/apps/details?id=kr.co.hdtel.ksbjsip&hl=ko      
+>5. hausD 통화 : 대보하우스디 SIP App    
+>https://play.google.com/store/apps/details?id=kr.co.hdtel.daebosip&hl=ko      
+>6. 통화 매니저 : 대림 VIP SIP App     
+>https://play.google.com/store/apps/details?id=kr.co.hdtel.vipsip&hl=ko    
 
 #### 프로젝트 명 : 현대건설 안면인식 앱 개발 (프로토타입 - 신규)
 > 내용 : 방문자 사진 등록, 목록 조회, 인증 확인   
@@ -249,3 +249,6 @@ https://blog.naver.com/korin57
 
 T Story 주소
 https://record-king.tistory.com/
+
+LinkedIn
+https://www.linkedin.com/in/우현-정-1aaa09142
