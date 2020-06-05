@@ -3,10 +3,12 @@
 ## 소개
 > **이름** : 정우현   
 > **나이** : 29   
-> **취미** : 개인 블로그 작성, 스케치, 글쓰는 것을 좋아해서 회사에서도 confluence를 통해 문서 정리를 연습하고 있습니다.   
+> **취미** : 개인 블로그 작성, 스케치, 영화 보기   
 > **가치관**   
->> 낭중지추(囊中之錐) 같은 사람이 되도록 노력하자   
->> 실패를 두려워하지말자.   
+
+	낭중지추(囊中之錐) 같은 사람이 되도록 노력하자   
+	실패를 두려워하지말자.   
+	
 -------------
 ## 회사경력
 > **현대통신(주)** Iot팀 전임 연구원 / Android Developer / 2017.01.09 ~ 현재 재직 중   
@@ -19,16 +21,16 @@
 
 ## 사용기술
 ### Android
-> kotlin, java   
-> rxJava, coroutine   
-> architecture : MVVM pattern, MVP & clean architecture   
-> Jenkins 자동화 빌드 구축   
-> Firebase Crashlytics    
-> Firebase Remote config   
-> Firebase Cloud Message   
-> Jitpack   
-> espresso (UI Test)   
-> library : glide, retrofit2, anko, eventbus, databinding...   
+	kotlin, java   
+	rxJava, coroutine   
+	architecture : MVVM pattern, MVP & clean architecture   
+	Jenkins 자동화 빌드 구축   
+	Firebase Crashlytics    
+	Firebase Remote config   
+	Firebase Cloud Message   
+	Jitpack   
+	espresso (UI Test)   
+	library : glide, retrofit2, anko, eventbus, databinding...   
 
 ### Process
 > **소스 관리** : Github / SVN / gitolite    
@@ -51,7 +53,8 @@
 > **기술** : java, MVP Clean Architecture, FCM, SIP 통화   
 > **개발 기간** : 2020.04.01 ~ 2020.05.20   
 > **개발 내용**   
->>기존 HT-home v1.0 UI/UX 리뉴얼 작업 및 추가 기능 구현   
+	
+	기존 HT-home v1.0 UI/UX 리뉴얼 작업 및 추가 기능 구현   
 
 #### 프로젝트 명 : SIP 통화 안드로이드 앱 UI/UX (리뉴얼, 신규)
 > **내용** : 월패드, 경비실기, 로비기와 휴대폰과의 SIP 통화 기능 제공   
@@ -59,23 +62,24 @@
 > **기술** : java, flavor 구조로 전체 앱 통일화, FCM, SIP    
 > **개발 기간** : 2020.02.24 ~ 2020.03.31   
 > **개발 내용**   
->	1. 기존 SIP 통화 UI/UX 리뉴얼 작업   
->	2. Q버전 Background 이슈 대응   
->>3. 기능 개선   
->>4. flavor를 이용한 전체 프로젝트 통일화   
+	
+	1. 기존 SIP 통화 UI/UX 리뉴얼 작업   
+	2. Q버전 Background 이슈 대응   
+	3. 기능 개선   
+	4. flavor를 이용한 전체 프로젝트 통일화   
 > **Play Store**   
->>1. HT Call : 몽골향 SIP App (신규)  
->>https://play.google.com/store/apps/details?id=kr.co.hdtel.mongol.sip&hl=ko   
->>2. 콜매니저 : 대림건설 SIP App   
->>https://play.google.com/store/apps/details?id=kr.co.hdtel.daelimsmarthomesip&hl=ko   
->>3. IMAZU 통화 : 현대통신 SIP App   
->>https://play.google.com/store/apps/details?id=kr.co.hdtel.hyundai.sip&hl=ko   
->>4. 예미지 통화 : 금성백조 SIP App   
->>https://play.google.com/store/apps/details?id=kr.co.hdtel.ksbjsip&hl=ko   
->>5. hausD 통화 : 대보하우스디 SIP App   
->>https://play.google.com/store/apps/details?id=kr.co.hdtel.daebosip&hl=ko   
->>6. 통화 매니저 : 대림 VIP SIP App   
->>https://play.google.com/store/apps/details?id=kr.co.hdtel.vipsip&hl=ko   
+>1. HT Call : 몽골향 SIP App (신규)  
+>https://play.google.com/store/apps/details?id=kr.co.hdtel.mongol.sip&hl=ko   
+>2. 콜매니저 : 대림건설 SIP App   
+>https://play.google.com/store/apps/details?id=kr.co.hdtel.daelimsmarthomesip&hl=ko   
+	3. IMAZU 통화 : 현대통신 SIP App   
+	https://play.google.com/store/apps/details?id=kr.co.hdtel.hyundai.sip&hl=ko   
+	4. 예미지 통화 : 금성백조 SIP App   
+	https://play.google.com/store/apps/details?id=kr.co.hdtel.ksbjsip&hl=ko   
+	5. hausD 통화 : 대보하우스디 SIP App   
+	https://play.google.com/store/apps/details?id=kr.co.hdtel.daebosip&hl=ko   
+	6. 통화 매니저 : 대림 VIP SIP App   
+	https://play.google.com/store/apps/details?id=kr.co.hdtel.vipsip&hl=ko   
 
 #### 프로젝트 명 : 현대건설 안면인식 앱 개발 (프로토타입 - 신규)
 > 내용 : 방문자 사진 등록, 목록 조회, 인증 확인   
