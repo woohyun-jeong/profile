@@ -221,10 +221,10 @@
 
 
 #### Toy 프로젝트
-> **얼굴 인식** (Android) https://record-king.tistory.com/19   
-> **앨범 일기 작성** (Android) https://record-king.tistory.com/8?category=863202
-> **음성 알림** (Android) https://record-king.tistory.com/12?category=863202
-> **간단한 채팅앱** (Android) https://record-king.tistory.com/18?category=863202
+> **얼굴 인식** (Android) https://record-king.tistory.com/19    
+> **앨범 일기 작성** (Android) https://record-king.tistory.com/8?category=863202    
+> **음성 알림** (Android) https://record-king.tistory.com/12?category=863202    
+> **간단한 채팅앱** (Android) https://record-king.tistory.com/18?category=863202    
 -------------
 
 ## 알고리즘 연습
@@ -242,8 +242,8 @@
 https://play.google.com/store/apps/developer?id=HYUNDAI+TELECOM
 
 ## 연락처
-> whjungdev@gmail.com   
-> korin57@naver.com   
-> **네이버 블로그 주소** : https://blog.naver.com/korin57
-> **T Story 주소** : https://record-king.tistory.com/
-> **LinkedIn** : https://www.linkedin.com/in/우현-정-1aaa09142
+> whjungdev@gmail.com     
+> korin57@naver.com    
+> **네이버 블로그 주소** : https://blog.naver.com/korin57    
+> **T Story 주소** : https://record-king.tistory.com/    
+> **LinkedIn** : https://www.linkedin.com/in/우현-정-1aaa09142    
