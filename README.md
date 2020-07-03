@@ -40,7 +40,9 @@
 ### Process
 > **소스 관리** : Github / SVN / gitolite    
 > **이슈 분석** : Jira(애자일 / 스프린트 / 칸반) / redmin      
-> **앱 크래시 분석** : Firebase Analytics   
+> **앱 크래시 분석** : Firebase Analytics & Slack crashlytics
+> **앱 배포 공유** : TestFairy
+> **앱 버전 관리** : gradle flavor
 > **CI/CD 빌드 자동화** : jenkins   
 > **코드 품질 테스트** : jenkins SonarQube   
 > **협업 툴** : confluence, zeplin   
@@ -51,6 +53,17 @@
 
 #### 프로젝트 명 : Iot 통합형 안드로이드 앱 개발 (준비 중)
 > 진행 중   
+
+#### 프로젝트 명 : Imazu 1.0, 2.0 안드로이드 앱 통합 (진행 중)
+> **Play Store**   
+>https://play.google.com/store/apps/details?id=com.hdtel.imazuhome&hl=ko   
+> **내용** : TCP/IP 통신으로 되어있는 Imazu 1.0 기능을 2.0에 통합 작업.    
+> **역할** : 기존 TCP/IP 통신 모듈 개선 진행.   
+> **기술** : Kotlin, Coroutine.   
+> **개발 기간** : 2020.07.01 ~ 진행 중   
+> **개발 내용**   
+	
+	1.0, 2.0 기능 통합   
 
 #### 프로젝트 명 : HT-home v2.0 안드로이드 앱 개발 (리뉴얼)
 > **Play Store**    
