@@ -33,7 +33,7 @@
 	Firebase Crashlytics    
 	Firebase Remote config   
 	Firebase Cloud Message   
-	Jitpack   
+	Jitpack (공통 모듈 관리) 
 	espresso (UI Test)   
 	library : glide, retrofit2, anko, eventbus, databinding...   
 
