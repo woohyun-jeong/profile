@@ -46,8 +46,15 @@
 > **CI/CD 빌드 자동화** : jenkins   
 > **코드 품질 테스트** : jenkins SonarQube   
 > **협업 툴** : confluence, zeplin   
-> **코드 리뷰** : pull request and merge request into 2 approve.   
+> **코드 리뷰** : Github / pull request and merge request into 2 approve.   
 > **회사 메신저** : slack, skype   
+
+### 사용 기술
+> Google Maps
+> Google Face Tracker (Carmera)
+> flavor 구조로 Deploy, Develop, TP/SQE, Release 버전 관리.
+> 
+
 
 ## 회사 프로젝트
 
