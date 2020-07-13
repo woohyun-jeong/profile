@@ -40,9 +40,9 @@
 ### Process
 > **소스 관리** : Github / SVN / gitolite    
 > **이슈 분석** : Jira(애자일 / 스프린트 / 칸반) / redmin      
-> **앱 크래시 분석** : Firebase Analytics & Slack crashlytics
-> **앱 배포 공유** : TestFairy
-> **앱 버전 관리** : gradle flavor
+> **앱 크래시 분석** : Firebase Analytics & Slack crashlytics   
+> **앱 배포 공유** : TestFairy   
+> **앱 버전 관리** : gradle flavor   
 > **CI/CD 빌드 자동화** : jenkins   
 > **코드 품질 테스트** : jenkins SonarQube   
 > **협업 툴** : confluence, zeplin   
