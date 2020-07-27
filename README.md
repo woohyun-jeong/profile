@@ -58,6 +58,17 @@
 
 ## 회사 프로젝트
 
+#### 프로젝트 명 : HT-care 안드로이드 앱 개발 (고도화)
+> **Play Store**   
+>https://play.google.com/store/apps/details?id=kr.co.hdtel.htcare   
+> **내용** : 일본 운전자 관리 및 헬스케어, 열화상 측정   
+> **역할** : 신규 서비스 추가 제공 (열화상 측정)   
+> **기술** : Kotlin, MVVM Achitecture, Rxjava, google facetracker, Livedata   
+> **개발 기간** : 외주 개발 라이브러리 적용 예정   
+> **개발 내용**   
+
+	1. 외주 개발 라이브러리 적용 예정    
+
 #### 프로젝트 명 : Iot 통합형 안드로이드 앱 개발 (준비 중)
 > 진행 중   
 
