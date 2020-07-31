@@ -280,5 +280,5 @@ https://play.google.com/store/apps/developer?id=HYUNDAI+TELECOM
 > **구글 메일** : whjungdev@gmail.com     
 > **네이버 메일** : korin57@naver.com    
 > **네이버 블로그 주소** : https://blog.naver.com/korin57    
-> **T Story 주소** : https://record-king.tistory.com/    
+> **Medium 블로그** : https://medium.com/woohyun-jeong   
 > **LinkedIn** : https://www.linkedin.com/in/우현-정-1aaa09142    
