@@ -40,7 +40,8 @@
 ### Process
 > **소스 관리** : Github / SVN / gitolite    
 > **이슈 분석** : Jira(애자일 / 스프린트 / 칸반) / redmin      
-> **앱 크래시 분석** : Firebase Analytics & Slack crashlytics   
+> **앱 크래시 분석** : Firebase Analytics & Slack crashlytics 
+> **앱 자동화 배포** : jenkins 비공개 알파버전 배포   
 > **앱 배포 공유** : TestFairy   
 > **앱 버전 관리** : gradle flavor   
 > **CI/CD 빌드 자동화** : jenkins   
@@ -53,7 +54,6 @@
 > Google Maps
 > Google Face Tracker (Carmera)
 > flavor 구조로 Deploy, Develop, TP/SQE, Release 버전 관리.
-> 
 
 
 ## 회사 프로젝트
@@ -73,13 +73,24 @@
 > 진행 중   
 
 
-#### 프로젝트 명 : Imazu 1.0, 2.0 안드로이드 앱 통합 (통합 진행중)
+#### 프로젝트 명 : Imazu 2.0 안드로이드 앱 개선 (단지 목록 조회)
+> **Play Store**   
+>https://play.google.com/store/apps/details?id=com.hdtel.imazuhome&hl=ko   
+> **내용** : 지역명으로 찾기 힘든 단지 목록을 찾기 기능으로 단지명 찾기 간편화 작업    
+> **역할** : 단지 목록 조회 UI/UX 및 기능 수정   
+> **기술** : Kotlin, expandable Recycler view   
+> **개발 기간** : 2020.10.08 ~    
+> **개발 내용**   
+	
+	단지명 찾기 간편화  
+
+#### 프로젝트 명 : Imazu 1.0, 2.0 안드로이드 앱 통합 (통합)
 > **Play Store**   
 >https://play.google.com/store/apps/details?id=com.hdtel.imazuhome&hl=ko   
 > **내용** : TCP/IP 통신으로 되어있는 Imazu 1.0 기능을 2.0에 통합 작업.    
 > **역할** : 기존 TCP/IP 통신 모듈 개선 진행.   
-> **기술** : Kotlin, Coroutine.   
-> **개발 기간** : 2020.07.01 ~ 2020.08.31   
+> **기술** : Kotlin, Coroutine, TCP/IP 모듈 개선   
+> **개발 기간** : 2020.07.01 ~ 2020.10.08   
 > **개발 내용**   
 	
 	1.0, 2.0 기능 통합   
