@@ -34,7 +34,6 @@
 	Firebase Remote config   
 	Firebase Cloud Message   
 	Jitpack (공통 모듈 관리) 
-	espresso (UI Test)   
 	library : glide, retrofit2, anko, eventbus, databinding...   
 
 ### Process
@@ -69,9 +68,18 @@
 
 	1. 외주 개발 라이브러리 적용 예정    
 
-#### 프로젝트 명 : Iot 통합형 안드로이드 앱 개발 (준비 중)
-> 진행 중   
+#### 프로젝트 명 : HT-home v2.0 안드로이드 앱 개발 기능 고도화 (자동화 시나리오)
+> **내용** : 자동화 시나리오 기능     
+> **역할** : 기존 서비스 기능 고도화        
+> **기술** : Java, MVP Achitecture   
+> **개발 기간** : 2020.10.16 ~   
+> **개발 내용**   
 
+	1. 조건/실행 리스트 화면     
+	2. IR 리모컨 사용자 실행 선택 화면      
+	3. zwave,zigbee 기기 및 센서 사용자 조건/실행 선택 화면     
+	4. 멤버 알림보내기 화면     
+	5. 자동화 시나리오 문장 자동화 문구      
 
 #### 프로젝트 명 : Imazu 2.0 안드로이드 앱 개선 (단지 목록 조회)
 > **Play Store**   
@@ -79,7 +87,18 @@
 > **내용** : 지역명으로 찾기 힘든 단지 목록을 찾기 기능으로 단지명 찾기 간편화 작업    
 > **역할** : 단지 목록 조회 UI/UX 및 기능 수정   
 > **기술** : Kotlin, expandable Recycler view   
-> **개발 기간** : 2020.10.08 ~    
+> **개발 기간** : 2020.10.08 ~ 2020.10.15    
+> **개발 내용**   
+	
+	단지명 찾기 간편화  
+
+#### 프로젝트 명 : Imazu 2.0 안드로이드 앱 개선 (단지 목록 조회)
+> **Play Store**   
+>https://play.google.com/store/apps/details?id=com.hdtel.imazuhome&hl=ko   
+> **내용** : 지역명으로 찾기 힘든 단지 목록을 찾기 기능으로 단지명 찾기 간편화 작업    
+> **역할** : 단지 목록 조회 UI/UX 및 기능 수정   
+> **기술** : Kotlin, expandable Recycler view   
+> **개발 기간** : 2020.10.08 ~ 2020.10.15    
 > **개발 내용**   
 	
 	단지명 찾기 간편화  
@@ -265,16 +284,7 @@
 #### 그외 소규모 프로젝트들
 > **개발 내용** : https://blog.naver.com/korin57 프로젝트 카테고리    
 
-
-#### Toy 프로젝트
-> **얼굴 인식** (Android) https://record-king.tistory.com/19    
-> **앨범 일기 작성** (Android) https://record-king.tistory.com/8?category=863202    
-> **음성 알림** (Android) https://record-king.tistory.com/12?category=863202    
-> **간단한 채팅앱** (Android) https://record-king.tistory.com/18?category=863202    
 -------------
-
-## 알고리즘 연습
-> https://github.com/woohyun-jeong/acmicpc
 
 ### 수상 실적
 > 현대통신 모범사원 표창장 (2017.12.31)   
