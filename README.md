@@ -69,10 +69,12 @@
 	1. 외주 개발 라이브러리 적용 예정    
 
 #### 프로젝트 명 : HT-home v2.0 안드로이드 앱 개발 기능 고도화 (자동화 시나리오)
+> **Play Store**    
+>https://play.google.com/store/apps/details?id=com.ht.connected.home.mobile
 > **내용** : 자동화 시나리오 기능     
 > **역할** : 기존 서비스 기능 고도화        
 > **기술** : Java, MVP Achitecture   
-> **개발 기간** : 2020.10.16 ~   
+> **개발 기간** : 2020.10.16 ~ 2020.12.15   
 > **개발 내용**   
 
 	1. 조건/실행 리스트 화면     
