@@ -32,7 +32,8 @@
 	Jenkins 자동화 빌드 구축   
 	Firebase Crashlytics    
 	Firebase Remote config   
-	Firebase Cloud Message   
+	Firebase Cloud Message
+	Firebase app distribution (테스트 배포)
 	Jitpack (공통 모듈 관리) 
 	library : glide, retrofit2, anko, eventbus, databinding...   
 
