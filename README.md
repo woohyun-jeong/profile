@@ -2,7 +2,7 @@
 
 ## 소개
 > **이름** : 정우현   
-> **나이** : 29   
+> **나이** : 30   
 > **취미** : 개인 블로그 작성, 스케치, 영화 보기, 등산, 헬스    
 > **가치관**   
 
@@ -31,24 +31,23 @@
 	architecture : MVVM pattern, MVP & clean architecture   
 	Jenkins 자동화 빌드 구축   
 	Firebase Crashlytics    
-	Firebase Remote config   
-	Firebase Cloud Message
-	Firebase app distribution (테스트 배포)
-	Jitpack (공통 모듈 관리) 
-	library : glide, retrofit2, anko, eventbus, databinding...   
+	Firebase Remote Config   
+	Firebase Cloud Message   
+	Firebase App Distribution (테스트 배포)   
+	Jitpack (공통 모듈 관리)    
+	library : glide, retrofit2, okhttp3, anko, eventbus, databinding...      
 
 ### Process
 > **소스 관리** : Github / SVN / gitolite    
 > **이슈 분석** : Jira(애자일 / 스프린트 / 칸반) / redmin      
-> **앱 크래시 분석** : Firebase Analytics & Slack crashlytics 
-> **앱 자동화 배포** : jenkins 비공개 알파버전 배포   
-> **앱 배포 공유** : TestFairy   
-> **앱 버전 관리** : gradle flavor   
-> **CI/CD 빌드 자동화** : jenkins   
-> **코드 품질 테스트** : jenkins SonarQube   
-> **협업 툴** : confluence, zeplin   
-> **코드 리뷰** : Github / pull request and merge request into 2 approve.   
-> **회사 메신저** : slack, skype   
+> **앱 크래시 분석** : Firebase Analytics & Slack crashlytics     
+> **앱 자동화 배포** : jenkins 비공개 알파버전 배포     
+> **앱 배포 공유** : TestFairy     
+> **앱 버전 관리** : gradle flavor     
+> **CI/CD 빌드 자동화** : jenkins     
+> **코드 품질 테스트** : jenkins SonarQube, klint     
+> **협업 툴** : confluence, zeplin, slack     
+> **코드 리뷰** : Github / pull request and merge request into 2 approve.     
 
 ### 사용 기술
 > Google Maps
