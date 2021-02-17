@@ -49,11 +49,6 @@
 > **협업 툴** : confluence, zeplin, slack     
 > **코드 리뷰** : Github / pull request and merge request into 2 approve.     
 
-### 사용 기술
-> Google Maps
-> Google Face Tracker (Carmera)
-> flavor 구조로 Deploy, Develop, TP/SQE, Release 버전 관리.
-
 
 ## 회사 프로젝트
 
