@@ -45,7 +45,7 @@
 > **앱 배포 공유** : TestFairy     
 > **앱 버전 관리** : gradle flavor     
 > **CI/CD 빌드 자동화** : jenkins     
-> **코드 품질 테스트** : jenkins SonarQube, klint     
+> **정적분석 도구** : lint, ktlint, detekt, sonaqube     
 > **협업 툴** : confluence, zeplin, slack     
 > **코드 리뷰** : Github / pull request and merge request into 2 approve.     
 
@@ -271,6 +271,9 @@
 > **개발 내용** : https://blog.naver.com/korin57 프로젝트 카테고리    
 
 -------------
+
+### 알고리즘 문제풀이
+> **leetcode** : https://github.com/woohyun-jeong/leetcode       
 
 ### 수상 실적
 > 현대통신 모범사원 표창장 (2017.12.31)   
