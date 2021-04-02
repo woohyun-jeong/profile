@@ -44,6 +44,7 @@
 > **앱 자동화 배포** : jenkins 비공개 알파버전 배포     
 > **앱 배포 공유** : TestFairy     
 > **앱 버전 관리** : gradle flavor     
+> **앱 유지보수** : Firebase Remote Config     
 > **CI/CD 빌드 자동화** : jenkins     
 > **정적분석 도구** : lint, ktlint, detekt, sonaqube     
 > **협업 툴** : confluence, zeplin, slack     
@@ -52,16 +53,28 @@
 
 ## 회사 프로젝트
 
+#### 프로젝트 명 : 현대건설 관련 안드로이드 앱 개발 진행 중
+> **Play Store**   
+> **내용** : 현대건설 관련 커뮤니티 서비스 안드로이드 앱   
+> **역할** : 신규 서비스 개발   
+> **기술** : Kotlin, MVVM Achitecture, Rxjava, google facetracker, Livedata   
+> **개발 기간** : 2021.03.26 ~    
+> **개발 내용**   
+
+	1. 기획 단계 검토     
+	2. 공통 UI 컴포넌트 개발 (calendar)     
+	3. API DAO 작업     
+
 #### 프로젝트 명 : HT-care 안드로이드 앱 개발 (고도화)
 > **Play Store**   
 >https://play.google.com/store/apps/details?id=kr.co.hdtel.htcare   
-> **내용** : 일본 운전자 관리 및 헬스케어, 열화상 측정   
+> **내용** : 일본 운전자 관리 및 헬스케어, 열화상 측정, 측정결과 화면 고도화   
 > **역할** : 신규 서비스 추가 제공 (열화상 측정)   
 > **기술** : Kotlin, MVVM Achitecture, Rxjava, google facetracker, Livedata   
-> **개발 기간** : 외주 개발 라이브러리 적용 예정   
+> **개발 기간** : 2021.03.02 ~ 2021.03.25   
 > **개발 내용**   
 
-	1. 외주 개발 라이브러리 적용 예정    
+	1. 외주 개발 라이브러리(파트론) 적용     
 
 #### 프로젝트 명 : HT-home v2.0 안드로이드 앱 개발 기능 고도화 (자동화 시나리오)
 > **Play Store**    
