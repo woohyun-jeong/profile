@@ -25,8 +25,11 @@
 > **네트워크 관리사 2급** / 등록번호 : NT2034753 / 발행기관 : 한국정보통신자격협회 / 취득일자 : 2016-09-13   
 
 ## 사용기술
+### QT
+	QML, QT, Linux   
+
 ### Android
-	kotlin, java   
+	kotlin, java, c, c++   
 	rxJava, coroutine   
 	architecture : MVVM pattern, MVP & clean architecture   
 	Jenkins 자동화 빌드 구축   
