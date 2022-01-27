@@ -42,7 +42,7 @@
 
 ### Process
 > **소스 관리** : Github / SVN / gitolite    
-> **이슈 분석** : Jira(애자일 / 스프린트 / 칸반) / redmin      
+> **이슈 분석** : Jira(애자일 / 스프린트 / 칸반) / redmine      
 > **앱 크래시 분석** : Firebase Analytics & Slack crashlytics     
 > **앱 자동화 배포** : jenkins 비공개 알파버전 배포     
 > **앱 배포 공유** : TestFairy     
