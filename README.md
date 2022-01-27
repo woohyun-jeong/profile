@@ -56,6 +56,15 @@
 
 ## 회사 프로젝트
 
+#### 프로젝트 명 : Imazu 2.0 KISA IoT 보안 인증 Basic 레벨    
+> **Play Store**   
+>https://play.google.com/store/apps/details?id=com.hdtel.imazuhome&hl=ko   
+> **내용** : IoT 보안인증 Basic 레벨   
+> **역할** : IoT 보안 인증 문제점 대응    
+> **기술** : IoT 보안 문제점 대응   
+> **개발 기간** : 2021.04.28 ~ 2021.12.16   
+> **개발 내용**   
+
 #### 프로젝트 명 : 현대건설 관련 안드로이드 앱 개발 - 진행 도중 프로젝트 중단
 > **Play Store**   
 > **내용** : 현대건설 관련 커뮤니티 서비스 안드로이드 앱   
