@@ -37,7 +37,7 @@
 	Firebase Cloud Message   
 	Firebase App Distribution (테스트 배포)   
 	Jitpack (공통 모듈 관리)    
-	library : glide, retrofit2, okhttp3, anko, eventbus, databinding...      
+	library : koin, glide, retrofit2, okhttp3, anko, eventbus, databinding...      
 
 ### Process
 > **소스 관리** : Github / SVN / gitolite    
@@ -54,6 +54,22 @@
 
 
 ## 회사 프로젝트
+
+#### 프로젝트 명 : 통합 앱 (HT-Home) 개발 진행 중    
+> **내용** : 로그인, 생활편의, 설정기능 개발   
+> **역할** : 신규 서비스 개발    
+> **기술** : Kotlin, MVVM Achitecture, Rxjava, Livedata     
+> **개발 기간** : 2022.01.03 ~ 지속적 대응       
+> **개발 내용**  
+
+#### 프로젝트 명 : Imazu 2.0 IoT 추가 보안 대응 - A3 Security 업체    
+> **Play Store**   
+>https://play.google.com/store/apps/details?id=com.hdtel.imazuhome&hl=ko   
+> **내용** : KISA 보안 기준표 추가 보안   
+> **역할** : KISA 보안 기준표 문제점 대응    
+> **기술** : KISA 보안 기준표 문제점 대응    
+> **개발 기간** : 2022.01.03 ~ 지속적 대응       
+> **개발 내용**  
 
 #### 프로젝트 명 : Imazu 2.0 KISA IoT 보안 인증 Basic 레벨    
 > **Play Store**   
