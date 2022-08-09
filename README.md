@@ -84,7 +84,7 @@
 > **Play Store**   
 > **내용** : 현대건설 관련 커뮤니티 서비스 안드로이드 앱   
 > **역할** : 신규 서비스 개발   
-> **기술** : Kotlin, MVVM Achitecture, Rxjava, google facetracker, Livedata   
+> **기술** : Kotlin, MVVM Achitecture, Rxjava, Livedata   
 > **개발 기간** : 2021.03.26 ~    
 > **개발 내용**   
 
