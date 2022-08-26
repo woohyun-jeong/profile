@@ -129,14 +129,14 @@
 > **기술** : java, MVP Clean Architecture, FCM, SIP 통화   
 > **개발 기간** : 2020.04.01 - 2020.05.20   
 > **개발 내용**   
-	1. 히스토리(이력조회) 탭 화면    	
-	2. 방 등록 화면   	
-	3. Zwave,Zigbee 기기 등록 화면   	
-	4. IR 등록 화면   	
-	5. Homeway 등록 화면   	
-	6. 아파트 등록 화면   	
-	7. 홈 등록 화면   	
-	8. 홈 등록 위치 선택 (Google maps 연동)   	
+	1. 히스토리(이력조회) 탭 화면      
+	2. 방 등록 화면      
+	3. Zwave,Zigbee 기기 등록 화면      
+	4. IR 등록 화면      
+	5. Homeway 등록 화면      
+	6. 아파트 등록 화면      
+	7. 홈 등록 화면      
+	8. 홈 등록 위치 선택 (Google maps 연동)      
   
 #### Project : SIP 통화 안드로이드 앱 UI/UX (리뉴얼, 신규)
 > **Play Store**   
