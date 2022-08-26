@@ -292,7 +292,6 @@
 ## Skill.
 ### QT
 	QML, QT, Linux   
-
 ### Android
 	kotlin, java, c, c++   
 	rxJava, coroutine   
