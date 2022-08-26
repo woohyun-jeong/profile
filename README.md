@@ -85,8 +85,8 @@
 > **개발 기간** : 2021.03.02 - 2021.03.25   
 > **개발 내용**   
 	1. 열화상 측정을 위한 외주 개발 라이브러리(파트론) 적용      
-	2. 측정결과 결과 차트 화면      
-	3. BLE 음주 측정 화면 및 기능   
+	2. 측정결과 결과 화면 및 오각형 차트      
+	3. BLE 음주 측정 화면 및 기능      
 
 #### 프로젝트 명 : HT-home v2.0 안드로이드 앱 개발 기능 고도화 (자동화 시나리오)
 > **Play Store**    
@@ -130,7 +130,14 @@
 > **기술** : java, MVP Clean Architecture, FCM, SIP 통화   
 > **개발 기간** : 2020.04.01 - 2020.05.20   
 > **개발 내용**   
-	1. 기존 HT-home v1.0 UI/UX 리뉴얼 작업 및 추가 기능 구현   	
+	1. 히스토리(이력조회) 탭 화면    	
+	2. 방 등록 화면   	
+	3. Zwave,Zigbee 기기 등록 화면   	
+	4. IR 등록 화면   	
+	5. Homeway 등록 화면   	
+	6. 아파트 등록 화면   	
+	7. 홈 등록 화면   	
+	8. 홈 등록 위치 선택 (Google maps 연동)   	
   
 #### 프로젝트 명 : SIP 통화 안드로이드 앱 UI/UX (리뉴얼, 신규)
 > **Play Store**   
@@ -297,7 +304,7 @@
 	Firebase Cloud Message   
 	Firebase App Distribution (테스트 배포)   
 	Jitpack (공통 모듈 관리)    
-	library : koin, glide, retrofit2, okhttp3, anko, eventbus, databinding...      
+	library : aac, jectpack, koin, glide, retrofit2, okhttp3, anko, eventbus, databinding...      
 
 ### Process
 > **소스 관리** : Github / SVN / gitolite    
