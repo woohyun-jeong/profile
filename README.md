@@ -1,60 +1,40 @@
 # profile
 
-## 소개
-> **이름** : 정우현   
-> **나이** : 31       
+## Introduce.
+> **5년차, Android App 개발자 정우현입니다.**   
+> **5년차 개발자로 Android Native App 개발을 담당하였고, 앱 개발을 처음부터 개발/배포/운영한 경험이 있습니다.** 
+> ****
+> **문제를 해결하기 위해 소통하는 일을 중요 시 합니다.**
+> ****       
 	
 -------------
-## 회사경력
-> **현대에이치티(주)** Mobile App팀 전임 연구원 / Android Developer / 2017.01.09 ~ 현재 재직 중   
-
-## Education
-> **대학교** : 부산 외국어대학교 임베디드 소프트웨어 학과 / 소재지 : 부산 금정구 (2011.03.02 - 2017.02.17)   
-> **군필** : 51사단 168연대 암호병 (2012.04.02 - 2014.01.01)   
-> **고등학교** : 부산 대연고등학교 / 인문고 / 지역 : 부산 남구 (2008.03.04 - 2011.02.10)   
-
-## 자격증
-> **정보처리기사** / 등록번호 : 16202030509A / 발행기관 : 산업인력관리공단 / 취득일자 : 2016.07.15   
-> **리눅스마스터 2급** / 등록번호 : LMS1603001020 / 발행기관 : 한국정보통신산업협회부설 한국정보통신인력개발센터 / 취득일자 : 2016-09-23   
-> **네트워크 관리사 2급** / 등록번호 : NT2034753 / 발행기관 : 한국정보통신자격협회 / 취득일자 : 2016-09-13   
-
-## 사용기술
-### QT
-	QML, QT, Linux   
-
-### Android
-	kotlin, java, c, c++   
-	rxJava, coroutine   
-	architecture : MVVM pattern, MVP & clean architecture   
-	Jenkins 자동화 빌드 구축   
-	Firebase Crashlytics    
-	Firebase Remote Config   
-	Firebase Cloud Message   
-	Firebase App Distribution (테스트 배포)   
-	Jitpack (공통 모듈 관리)    
-	library : koin, glide, retrofit2, okhttp3, anko, eventbus, databinding...      
-
-### Process
-> **소스 관리** : Github / SVN / gitolite    
-> **이슈 분석** : Jira(애자일 / 스프린트 / 칸반) / redmine      
-> **앱 크래시 분석** : Firebase Analytics & Slack crashlytics     
-> **앱 자동화 배포** : jenkins 비공개 알파버전 배포     
-> **앱 배포 공유** : TestFairy     
-> **앱 버전 관리** : gradle flavor     
-> **앱 유지보수** : Firebase Remote Config     
-> **CI/CD 빌드 자동화** : jenkins     
-> **정적분석 도구** : lint, ktlint, detekt, sonaqube     
-> **협업 툴** : confluence, zeplin, slack     
-> **코드 리뷰** : Github / pull request and merge request into 2 approve.     
-
 
 ## Work Experience.
+> **현대에이치티(주)** Mobile App팀 전임 연구원 / 2017.01.09 - 현재 재직 중   
+> **현대통신(주)** IoT팀 전임 연구원 / 2019.09.02 - 2021.07.01   
+> **현대통신(주)** Application1팀 주임 연구원 / 2017.01.09 - 2019.09.02   
+
 #### 프로젝트 명 : 통합 앱 (HT-Home) 개발 진행 중    
-> **내용** : 로그인, 생활편의, 설정기능 개발   
+> **내용** : 통합 앱 전반적인 기능 및 화면 개발   
 > **역할** : 신규 서비스 개발    
-> **기술** : Kotlin, MVVM Achitecture, Rxjava, Livedata     
-> **개발 기간** : 2022.01.03 ~ 지속적 대응       
+> **기술** : Kotlin, MVVM Achitecture, Rxjava, Livedata, koin     
+> **개발 기간** : 2022.01.03 - 지속적 대응       
 > **개발 내용**  
+	1.  로그인 화면 개발     
+	2.  생활편의 공지사항 화면 개발     
+	3.  생활편의 주민투표 화면 개발     
+	4.  생활편의 관리비 화면 개발     
+	5.  생활편의 방문자 목록 화면 개발     
+	6.  생활편의 택배 화면 개발     
+	7.  생활편의 주차위치 화면 개발     
+	8.  생활편의 차량 출입 화면 개발     
+	9.  생활편의 방문 차량 등록 화면 개발     
+	10. 생활편의 엘리베이터 콜 화면 개발     
+	11. 생활편의 SIP 통화 관리실, 세대, 공동현관, 세대현관 화면 개발      
+	12. 생활편의 에너지 사용량 (EMS,LEMS,원격검침) 화면 개발      
+	13. 생활편의 방범 설정 화면 개발      
+	14. 설정 화면 개발      
+	15. 아파트홈 연결 화면 개발      
 
 #### 프로젝트 명 : Imazu 2.0 IoT 추가 보안 대응 - A3 Security 업체    
 > **Play Store**   
@@ -64,18 +44,23 @@
 > **기술** : KISA 보안 기준표 문제점 대응    
 > **개발 기간** : 2022.01.03 ~ 지속적 대응       
 > **개발 내용**  
+	1. Rooting Check 보안 관련 내용 처리     
+	2. String 문자열 보안 내용 처리 (Token, Id, Password등)     
 
 #### 프로젝트 명 : Imazu 2.0 KISA IoT 보안 인증 Basic 레벨    
 > **Play Store**   
 >https://play.google.com/store/apps/details?id=com.hdtel.imazuhome&hl=ko   
 > **내용** : IoT 보안인증 Basic 레벨   
 > **역할** : IoT 보안 인증 문제점 대응    
-> **기술** : IoT 보안 문제점 대응   
+> **기술** : IoT 보안   
 > **개발 기간** : 2021.04.28 ~ 2021.12.16   
 > **개발 내용**   
-
-	1. 보안 관련 내용 처리     
-
+	1. SIP 통화간의 Media 보안 sRTP 사용과 AES_CM_128_HMAC_SHA1_32 cipher suite 적용     
+	2. 5회 로그인 실패 시 5분간 로그인 사용 제한 적용     
+	3. 서버 통신간 TLSv1.2 통신 채널의 안전한 Cipher Suites 적용     
+	4. 중요정보 암호화를 위한 androidx secuirty 적용     
+	5. 세션 보안을 위한 화면 잠금 패스워드 설정 기능 적용   
+	6. 오픈소스 라이브러리 사용 시 최신 보안패치 적용된 버전으로 적용   
 
 #### 프로젝트 명 : 현대건설 관련 안드로이드 앱 개발 - 진행 도중 프로젝트 중단
 > **Play Store**   
@@ -84,7 +69,6 @@
 > **기술** : Kotlin, MVVM Achitecture, Rxjava, Livedata   
 > **개발 기간** : 2021.03.26 ~    
 > **개발 내용**   
-
 	1. 기획 단계 검토     
 	2. 공통 UI 컴포넌트 개발 (calendar)     
 	3. API DAO 작업     
@@ -97,7 +81,6 @@
 > **기술** : Kotlin, MVVM Achitecture, Rxjava, google facetracker, Livedata   
 > **개발 기간** : 2021.03.02 ~ 2021.03.25   
 > **개발 내용**   
-
 	1. 외주 개발 라이브러리(파트론) 적용     
 
 #### 프로젝트 명 : HT-home v2.0 안드로이드 앱 개발 기능 고도화 (자동화 시나리오)
@@ -306,6 +289,44 @@
 
 -------------
 
+## Skill.
+### QT
+	QML, QT, Linux   
+
+### Android
+	kotlin, java, c, c++   
+	rxJava, coroutine   
+	architecture : MVVM pattern, MVP & clean architecture   
+	Jenkins 자동화 빌드 구축   
+	Firebase Crashlytics    
+	Firebase Remote Config   
+	Firebase Cloud Message   
+	Firebase App Distribution (테스트 배포)   
+	Jitpack (공통 모듈 관리)    
+	library : koin, glide, retrofit2, okhttp3, anko, eventbus, databinding...      
+
+### Process
+> **소스 관리** : Github / SVN / gitolite    
+> **이슈 분석** : Jira(애자일 / 스프린트 / 칸반) / redmine      
+> **앱 크래시 분석** : Firebase Analytics & Slack crashlytics     
+> **앱 자동화 배포** : jenkins 비공개 알파버전 배포     
+> **앱 배포 공유** : TestFairy     
+> **앱 버전 관리** : gradle flavor     
+> **앱 유지보수** : Firebase Remote Config     
+> **CI/CD 빌드 자동화** : jenkins     
+> **정적분석 도구** : lint, ktlint, detekt, sonaqube     
+> **협업 툴** : confluence, zeplin, slack     
+> **코드 리뷰** : Github / pull request and merge request into 2 approve.     
+
+## Education
+> **대학교** : 부산 외국어대학교 임베디드 소프트웨어 학과 / 소재지 : 부산 금정구 (2011.03.02 - 2017.02.17)   
+> **군필** : 51사단 168연대 암호병 (2012.04.02 - 2014.01.01)   
+> **고등학교** : 부산 대연고등학교 / 인문고 / 지역 : 부산 남구 (2008.03.04 - 2011.02.10)   
+
+## 자격증
+> **정보처리기사** / 등록번호 : 16202030509A / 발행기관 : 산업인력관리공단 / 취득일자 : 2016.07.15   
+> **리눅스마스터 2급** / 등록번호 : LMS1603001020 / 발행기관 : 한국정보통신산업협회부설 한국정보통신인력개발센터 / 취득일자 : 2016-09-23   
+> **네트워크 관리사 2급** / 등록번호 : NT2034753 / 발행기관 : 한국정보통신자격협회 / 취득일자 : 2016-09-13   
 
 ### 수상 실적
 > 현대통신 모범사원 표창장 (2017.12.31)   
