@@ -3,6 +3,7 @@
 ## Introduce.
 > **5년차, Android App 개발자 정우현입니다.**   
 > **5년차 개발자로 Android Native App 개발을 담당하였고, 앱 개발을 처음부터 개발/배포/운영한 경험이 있습니다.** 
+> ****
 > **문제를 해결하기 위해 소통하는 일을 중요 시 합니다.**
 > ****       
 	
@@ -56,10 +57,13 @@
 > **개발 내용**   
 	1. SIP 통화간의 Media 보안 sRTP 사용과 AES_CM_128_HMAC_SHA1_32 cipher suite 적용     
 	2. 5회 로그인 실패 시 5분간 로그인 사용 제한 적용     
-	3. 서버 통신간 TLSv1.2 통신 채널의 안전한 Cipher Suites 적용     
+	3. 서버 통신간 TLSv1.2 통신 채널의 안전한 Cipher Suites 적용(OkHttp 옵션 설정)     
 	4. 중요정보 암호화를 위한 androidx secuirty 적용     
 	5. 세션 보안을 위한 화면 잠금 패스워드 설정 기능 적용   
 	6. 오픈소스 라이브러리 사용 시 최신 보안패치 적용된 버전으로 적용   
+	7. Jenkins Sonaqube 연동으로 코드 문제점 수정   
+	8. lint, ktlint, detekt 연동으로 코드 문제점 수정   
+	9. checkMarx 테스트로 코드 문제점 수정   
 
 #### 프로젝트 명 : 현대건설 관련 안드로이드 앱 개발 - 진행 도중 프로젝트 중단
 > **Play Store**   
@@ -196,11 +200,13 @@
 > **내용** : 일본 운전자 관리 및 헬스케어 측정   
 > **역할** : 신규 서비스 제공   
 > **기술** : Kotlin, MVVM Achitecture, Rxjava, google facetracker, Livedata   
-> **개발 기간** : 2019.09.02 ~ 2020.03.06   
+> **개발 기간** : 2019.09.02 - 2020.03.06   
 > **개발 내용**   
 	1. 얼굴 추적 라이브러리(face tracker) 탑제를 통한 Preview 얼굴인식 기능
 	2. 이름 검색을 통한 사용자 정보 찾기 기능
 	3. 얼굴, 손가락을 통한 사용자의 헬스케어 측정
+	4. 출근/퇴근 선택 화면   
+	5. 개인정보 확인 및 사진 수정 화면   
 
 #### 프로젝트 명 : Jig 프로그램 개발 (신규)
 > **내용** : 월패드 하드웨어 테스트 프로그램   
@@ -284,7 +290,8 @@
 	kotlin, java, c, c++   
 	rxJava, coroutine   
 	architecture : MVVM pattern, MVP & clean architecture   
-	Jenkins 자동화 빌드 구축   
+	Jenkins 자동화 빌드 구축  
+	Firebase Dynamic Link    
 	Firebase Crashlytics    
 	Firebase Remote Config   
 	Firebase Cloud Message   
