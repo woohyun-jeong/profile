@@ -328,7 +328,7 @@
 > **리눅스마스터 2급** / 등록번호 : LMS1603001020 / 발행기관 : 한국정보통신산업협회부설 한국정보통신인력개발센터 / 취득일자 : 2016-09-23   
 > **네트워크 관리사 2급** / 등록번호 : NT2034753 / 발행기관 : 한국정보통신자격협회 / 취득일자 : 2016-09-13   
 
-### Awarks
+### Awars
 > 현대통신 모범사원 표창장 (2017.12.31)   
 <img src="https://github.com/woohyun-jeong/profile/blob/master/%EB%AA%A8%EB%B2%94%EC%82%AC%EC%9B%90%EC%83%81.jpg" width="300"></img>
 <img src="https://github.com/woohyun-jeong/profile/blob/master/%EB%A7%88%ED%8C%A8.jpg" width="300"></img>  
