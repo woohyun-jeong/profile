@@ -3,7 +3,6 @@
 ## Introduce.
 > **5년차, Android App 개발자 정우현입니다.**   
 > **5년차 개발자로 Android Native App 개발을 담당하였고, 앱 개발을 처음부터 개발/배포/운영한 경험이 있습니다.** 
-> ****
 > **문제를 해결하기 위해 소통하는 일을 중요 시 합니다.**
 > ****       
 	
@@ -14,7 +13,7 @@
 > **현대통신(주)** IoT팀 전임 연구원 / 2019.09.02 - 2021.07.01   
 > **현대통신(주)** Application1팀 주임 연구원 / 2017.01.09 - 2019.09.02   
 
-#### 프로젝트 명 : 통합 앱 (HT-Home) 개발 진행 중    
+#### Project : 통합 앱 (HT-Home) 개발 진행 중    
 > **내용** : 통합 앱 전반적인 기능 및 화면 개발   
 > **역할** : 신규 서비스 개발    
 > **기술** : Kotlin, MVVM Achitecture, Rxjava, Livedata, koin     
@@ -36,7 +35,7 @@
 	14. 설정 화면      
 	15. 아파트홈 연결 화면      
 
-#### 프로젝트 명 : Imazu 2.0 IoT 추가 보안 대응 - A3 Security 업체    
+#### Project : Imazu 2.0 IoT 추가 보안 대응 - A3 Security 업체    
 > **Play Store**   
 >https://play.google.com/store/apps/details?id=com.hdtel.imazuhome&hl=ko   
 > **내용** : KISA 보안 기준표 추가 보안   
@@ -47,7 +46,7 @@
 	1. Rooting Check 보안 관련 내용 처리     
 	2. String 문자열 보안 내용 처리 (Token, Id, Password등)     
 
-#### 프로젝트 명 : Imazu 2.0 KISA IoT 보안 인증 Basic 레벨    
+#### Project : Imazu 2.0 KISA IoT 보안 인증 Basic 레벨    
 > **Play Store**   
 >https://play.google.com/store/apps/details?id=com.hdtel.imazuhome&hl=ko   
 > **내용** : IoT 보안인증 Basic 레벨   
@@ -65,7 +64,7 @@
 	8. lint, ktlint, detekt 연동으로 코드 문제점 수정   
 	9. checkMarx 테스트로 코드 문제점 수정   
 
-#### 프로젝트 명 : 현대건설 관련 안드로이드 앱 개발 - 진행 도중 프로젝트 중단
+#### Project : 현대건설 관련 안드로이드 앱 개발 - 진행 도중 프로젝트 중단
 > **Play Store**   
 > **내용** : 현대건설 관련 커뮤니티 서비스 안드로이드 앱   
 > **역할** : 신규 서비스 개발   
@@ -76,7 +75,7 @@
 	2. 공통 UI 컴포넌트 개발 (calendar)     
 	3. API DAO 작업     
 
-#### 프로젝트 명 : HT-care 안드로이드 앱 개발 (고도화)
+#### Project : HT-care 안드로이드 앱 개발 (고도화)
 > **Play Store**   
 >https://play.google.com/store/apps/details?id=kr.co.hdtel.htcare   
 > **내용** : 일본 운전자 관리 및 헬스케어, 열화상 측정, 측정결과 화면 고도화, 음주 측정   
@@ -88,7 +87,7 @@
 	2. 측정결과 결과 화면 및 오각형 차트      
 	3. BLE 음주 측정 화면 및 기능      
 
-#### 프로젝트 명 : HT-home v2.0 안드로이드 앱 개발 기능 고도화 (자동화 시나리오)
+#### Project : HT-home v2.0 안드로이드 앱 개발 기능 고도화 (자동화 시나리오)
 > **Play Store**    
 >https://play.google.com/store/apps/details?id=com.ht.connected.home.mobile
 > **내용** : 자동화 시나리오 기능     
@@ -102,7 +101,7 @@
 	4. 멤버 알림보내기 화면     
 	5. 자동화 시나리오 문장 자동화 문구      
 
-#### 프로젝트 명 : Imazu 2.0 안드로이드 앱 개선 (단지 목록 조회)
+#### Project : Imazu 2.0 안드로이드 앱 개선 (단지 목록 조회)
 > **Play Store**   
 >https://play.google.com/store/apps/details?id=com.hdtel.imazuhome&hl=ko   
 > **내용** : 지역명으로 찾기 힘든 단지 목록을 찾기 기능으로 단지명 찾기 간편화 작업    
@@ -112,7 +111,7 @@
 > **개발 내용**   
 	1. 단지 목록 조회 화면   	   
 
-#### 프로젝트 명 : Imazu 1.0, 2.0 안드로이드 앱 통합 (통합)
+#### Project : Imazu 1.0, 2.0 안드로이드 앱 통합 (통합)
 > **Play Store**   
 >https://play.google.com/store/apps/details?id=com.hdtel.imazuhome&hl=ko   
 > **내용** : TCP/IP 통신으로 되어있는 Imazu 1.0 기능을 2.0에 통합 작업.    
@@ -122,7 +121,7 @@
 > **개발 내용**   
 	1. Imazu 1.0 Socket 통신 기능들 전체 통합   	
 
-#### 프로젝트 명 : HT-home v2.0 안드로이드 앱 개발 (리뉴얼)
+#### Project : HT-home v2.0 안드로이드 앱 개발 (리뉴얼)
 > **Play Store**    
 >https://play.google.com/store/apps/details?id=com.ht.connected.home.mobile    
 > **내용** : Host 장비를 통한 Iot Zwave 기기제어 및 부가 서비스 제공    
@@ -139,7 +138,7 @@
 	7. 홈 등록 화면   	
 	8. 홈 등록 위치 선택 (Google maps 연동)   	
   
-#### 프로젝트 명 : SIP 통화 안드로이드 앱 UI/UX (리뉴얼, 신규)
+#### Project : SIP 통화 안드로이드 앱 UI/UX (리뉴얼, 신규)
 > **Play Store**   
 >1. **HT Call** : 몽골향 SIP App (신규)  
 >https://play.google.com/store/apps/details?id=kr.co.hdtel.mongol.sip&hl=ko   
@@ -163,7 +162,7 @@
 	3. 기능 개선   
 	4. flavor를 이용한 전체 프로젝트 통일화   
  
-#### 프로젝트 명 : 현대건설 안면인식 앱 개발 (프로토타입 - 신규)
+#### Project : 현대건설 안면인식 앱 개발 (프로토타입 - 신규)
 > **Play Store**   
 > 없음.   
 > **내용** : 방문자 사진 등록, 목록 조회, 인증 확인   
@@ -174,7 +173,7 @@
 	1. 얼굴 추적 라이브러리(face tracker) 탑제를 통한 Preview 얼굴인식 기능   
 	2. 이름 검색을 통한 사용자 정보 찾기 기능   
 
-#### 프로젝트 명 : IMAZU v2.0 안드로이드 앱 개발 (유지보수)
+#### Project : IMAZU v2.0 안드로이드 앱 개발 (유지보수)
 > **Play Store**   
 >https://play.google.com/store/apps/details?id=com.hdtel.imazuhome&hl=ko   
 > **내용** : 월패드 기기제어 및 부가 서비스 제공    
@@ -185,7 +184,7 @@
 	1. Android OS 버전에 따른 대응 중   
 	2. Play Store 정책에 따른 증빙 자료 제출   
 
-#### 프로젝트 명 : HT-home v1.0 안드로이드 앱 개발 (유지보수)
+#### Project : HT-home v1.0 안드로이드 앱 개발 (유지보수)
 > **Play Store**   
 >https://play.google.com/store/apps/details?id=com.ht.connected.home.mobile   
 > **내용** : Host 장비를 통한 Iot 기기제어 및 부가 서비스 제공   
@@ -201,7 +200,7 @@
 	5. v1.2.0 아파트 단지 조회, 히스토리 조회 
 	6. IPC playback UI 리펙토링, 기능 수정
 
-#### 프로젝트 명 : HT-care 안드로이드 앱 개발 (신규)
+#### Project : HT-care 안드로이드 앱 개발 (신규)
 > **Play Store**   
 >https://play.google.com/store/apps/details?id=kr.co.hdtel.htcare   
 > **내용** : 일본 운전자 관리 및 헬스케어 측정   
@@ -215,7 +214,7 @@
 	4. 출근/퇴근 선택 화면   
 	5. 개인정보 확인 및 사진 수정 화면   
 
-#### 프로젝트 명 : Jig 프로그램 개발 (신규)
+#### Project : Jig 프로그램 개발 (신규)
 > **내용** : 월패드 하드웨어 테스트 프로그램   
 > **역할** : Jig 기능 요구사항 협의 및 기능 추가.   
 > **기술** : QT Framework UI 개발   
@@ -225,7 +224,7 @@
 	2. Audio
 	3. Dot matrix
 
-#### 프로젝트 명 : 포스코향 월패드 개발 (신규)
+#### Project : 포스코향 월패드 개발 (신규)
 > **내용** : 포스코 건설 월패드 개발   
 > **역할** : UI 개발 및 Framework 기능 추가 및 수정.    
 > **기술** : QT Framework UI 개발   
@@ -234,7 +233,7 @@
 	1. RS-485 기기제어 UI 기능
 	2. TCP/IP 외부 제어기능
 
-#### 프로젝트 명 : 금호향 월패드 개발 (신규)
+#### Project : 금호향 월패드 개발 (신규)
 > **내용** : 금호 건설 월패드 개발   
 > **역할** : UI 개발 및 Framework 기능 추가 및 수정.   
 > **기술** : QT Framework UI 개발   
@@ -243,7 +242,7 @@
 	1. RS-485 기기제어 UI 기능
 	2. TCP/IP 외부 제어기능
 
-#### 프로젝트 명 : 대림향 월패드 개발 (신규)
+#### Project : 대림향 월패드 개발 (신규)
 > **내용** : 대림 건설 월패드 개발   
 > **역할** : UI 개발 및 Framework 기능 추가 및 수정.   
 > **기술** : QT Framework UI 개발   
@@ -254,13 +253,13 @@
 	3. TCP/IP 외부 제어기능
 	4. SIP 다자간 통화 기능 추가 (세대간, 도어 모니터링)
 
-#### 프로젝트 명 : 현대건설 버스정보 시스템 개발 (신규)
+#### Project : 현대건설 버스정보 시스템 개발 (신규)
 > **역할** : UI 개발 및 Framework 기능 추가.    
 > **개발 기간** : 2017.04.01 - 2017.04.30      
 > **개발 내용**   
 	1. 단지서비스 UI 기능
 
-#### 프로젝트 명 : 현대자동차, 기아자동차 AVN 앱 개발 (프로토타입 - 신규)
+#### Project : 현대자동차, 기아자동차 AVN 앱 개발 (프로토타입 - 신규)
 <img src="https://github.com/woohyun-jeong/profile/blob/master/%ED%98%84%EB%8C%80%EC%B0%A8.png" width="300"></img>
 <img src="https://github.com/woohyun-jeong/profile/blob/master/%EA%B8%B0%EC%95%84%EC%9E%90%EB%8F%99%EC%B0%A8.png" width="300"></img>
 
@@ -277,13 +276,13 @@
 > **알마니** (Algorithm mania) 동아리장 (https://cafe.naver.com/algorithmcoder)    
 
 ## 대학교 프로젝트
-#### 프로젝트 명 : 스마트 어항관리
+#### Project : 스마트 어항관리
 > **역할** : 파이 3.14 Iot 동아리장 및 개발   
 > **개발 기간** : 2016.06.27 - 2016.07.10   
 > **개발 내용**   
 >https://github.com/woohyun-jeong/iot-smartfishbowl   
 
-#### 프로젝트 명 : 부산외국어대학교 다문화 사업단 다문화 가정 설문조사
+#### Project : 부산외국어대학교 다문화 사업단 다문화 가정 설문조사
 > **역할** : 설문조사 App 개발      
 > **개발 기간** : 2016.11.01 - 2016.12.05      
 > **개발 내용** : 프로토타입 개발 후 다문화 사업단에 개발 인계하여 개발 저작권을 양도함.    
@@ -324,12 +323,12 @@
 > **군필** : 51사단 168연대 암호병 (2012.04.02 - 2014.01.01)   
 > **고등학교** : 부산 대연고등학교 / 인문고 / 지역 : 부산 남구 (2008.03.04 - 2011.02.10)   
 
-## 자격증
+## License
 > **정보처리기사** / 등록번호 : 16202030509A / 발행기관 : 산업인력관리공단 / 취득일자 : 2016.07.15   
 > **리눅스마스터 2급** / 등록번호 : LMS1603001020 / 발행기관 : 한국정보통신산업협회부설 한국정보통신인력개발센터 / 취득일자 : 2016-09-23   
 > **네트워크 관리사 2급** / 등록번호 : NT2034753 / 발행기관 : 한국정보통신자격협회 / 취득일자 : 2016-09-13   
 
-### 수상 실적
+### Awarks
 > 현대통신 모범사원 표창장 (2017.12.31)   
 <img src="https://github.com/woohyun-jeong/profile/blob/master/%EB%AA%A8%EB%B2%94%EC%82%AC%EC%9B%90%EC%83%81.jpg" width="300"></img>
 <img src="https://github.com/woohyun-jeong/profile/blob/master/%EB%A7%88%ED%8C%A8.jpg" width="300"></img>  
