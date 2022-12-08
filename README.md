@@ -370,8 +370,4 @@
 
 ### Awars
 > 현대통신 모범사원 표창장 (2017.12.31)   
-<img src="https://github.com/woohyun-jeong/profile/blob/master/%EB%AA%A8%EB%B2%94%EC%82%AC%EC%9B%90%EC%83%81.jpg" width="300"></img>
-<img src="https://github.com/woohyun-jeong/profile/blob/master/%EB%A7%88%ED%8C%A8.jpg" width="300"></img>  
 > 현대통신 창립20주년 공로상 (2018.4.25)   
-<img src="https://github.com/woohyun-jeong/profile/blob/master/%EA%B3%B5%EB%A1%9C%EC%83%81.jpg" width="300"></img>
-<img src="https://github.com/woohyun-jeong/profile/blob/master/%EC%97%B4%EC%87%A0.jpg" width="300"></img>   
