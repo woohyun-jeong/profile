@@ -4,6 +4,7 @@
 > **6년차, Android App 개발자 정우현입니다.**   
 > **6년차 개발자로 Android Native App 개발을 담당하였고, 앱 개발을 처음부터 개발/배포/운영한 경험이 있습니다.** 
 > **특이하게 다른 플랫폼에서 개발한 경험도 있습니다. 매출 1000억대의 월패드 제품 개발에 책임지고 개발하였습니다.**
+> **개발뿐아니라 프로젝트 전체를 리딩해본 경험도 가지고 있습니다.**
 > **개발자란 문제를 해결하는 사람이라고 생각합니다.**
 > **이를 위해 다양한 직무의 구성원들과 커뮤니케이션 하며 개발/운영간에 문제들을 해결하며 협업해왔습니다.**       
 	
@@ -14,6 +15,66 @@
 > **현대통신(주)** IoT팀 전임 연구원 / 2019.09.02 - 2021.07.01   
 > **현대통신(주)** Application1팀 주임 연구원 / 2017.01.09 - 2019.09.02   
 
+#### Project : 이마주 베트남향 작업    
+> **Play Store**   
+>https://play.google.com/store/apps/details?id=com.ht.shinsegae.villiv   
+>https://play.google.com/store/apps/details?id=com.ht.kumho.artera   
+> **내용** : 이마주 앱 다각화를 통한 건설사 앱 지원   
+> **역할** : 이마주 앱 다각화 구조 개발    
+> **기술** : flavor를 이용한 프로젝트 다각화    
+> **개발 기간** : 2023.01.27 - 2023.02.17       
+> **개발 내용**  
+	1. 금호 어울림 스마트홈 레이아웃 개발   
+	2. 신세계 빌리브 스마트홈 Face-pass 기능 추가   
+	3. 다각화 빌드 설정 추가   
+	4. 로그인 페이지 고도화   
+
+#### Project : 삼성 SmartThings 4x버전 라이브러리 개발 사양    
+> **내용** : SmartThings 4x버전 라이브러리 개발을 위한 리딩  
+> **역할** : 개발 참여가 아닌 프로젝트 리딩    
+> **기술** : Node.js 기반의 react web 개발 내용 정리    
+> **개발 기간** : 2023.02.17 ~       
+> **개발 내용**  
+	1. 현대HT 기능 사양 정리 및 web 개발자와의 커뮤니케이션으로 프로젝트 리딩
+	2. 삼성 SmartThings 개발자 간에 커뮤니케이션으로 스마트폰에 Sideloading등과 같은 개발 프로세스 정리   
+
+#### Project : 이마주 유지보수    
+> **Play Store**   
+>https://play.google.com/store/apps/details?id=com.hdtel.imazuhome  
+> **내용** : 이마주 앱 SDK 31 지원   
+> **역할** : 이마주 앱 SDK 31 관련 내용들 적용    
+> **기술** : SDK 31 사양에 따른 수정    
+> **개발 기간** : 2023.02.17 - 2023.02.24       
+> **개발 내용**  
+	1. 근처기기 엑세스 권한 수락 후 블루투스 접근이 가능하므로 이에 대한 예외처리   
+
+#### Project : 이마주 다각화 작업    
+> **Play Store**   
+>https://play.google.com/store/apps/details?id=com.ht.shinsegae.villiv   
+>https://play.google.com/store/apps/details?id=com.ht.kumho.artera   
+> **내용** : 이마주 앱 다각화를 통한 건설사 앱 지원   
+> **역할** : 이마주 앱 다각화 구조 개발    
+> **기술** : flavor를 이용한 프로젝트 다각화    
+> **개발 기간** : 2023.01.27 - 2023.02.17       
+> **개발 내용**  
+	1. 금호 어울림 스마트홈 레이아웃 개발   
+	2. 신세계 빌리브 스마트홈 Face-pass 기능 추가   
+	3. 다각화 빌드 설정 추가   
+	4. 로그인 페이지 고도화   
+
+#### Project : HT 통합 앱    
+> **Play Store**   
+> 배포 전   
+> **내용** : 통합 스마트 홈 기능 개발   
+> **역할** : 전체적인 앱 개발    
+> **기술** : Kotlin, MVVM Achitecture, Rxjava     
+> **개발 기간** : 2022.12.02 ~      
+> **개발 내용**  
+	1. IMAZU 2.0 기능 적용   
+	2. HT Home 기능 적용   
+	3. 신규 UI/UX 개발   
+	4. 해외향 전시회 및 시연용 개발 (인도네시아, 베트남, 태국)
+	5. 베트남 전시회 Smart City Asia, (HCMC Vietnam)   
 
 #### Project : 이마주 고도화 작업    
 > **Play Store**   
