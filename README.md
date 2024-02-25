@@ -419,6 +419,11 @@
 > **협업 툴** : confluence, zeplin, slack     
 > **코드 리뷰** : Github / pull request and merge request into 2 approve.     
 
+### Protocol
+> **Restful** : https기반 API 통신     
+> **MQTT** : 저전력 메시징 프로토콜     
+> **WebSocket** : 실시간 소켓 통신     
+
 ## Education
 > **대학교** : 부산 외국어대학교 임베디드 소프트웨어 학과 / 소재지 : 부산 금정구 (2011.03.02 - 2017.02.17)   
 > **군필** : 51사단 168연대 암호병 (2012.04.02 - 2014.01.01)   
