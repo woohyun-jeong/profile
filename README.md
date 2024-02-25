@@ -15,6 +15,18 @@
 > **현대통신(주)** IoT팀 전임 연구원 / 2019.09.02 - 2021.07.01   
 > **현대통신(주)** Application1팀 주임 연구원 / 2017.01.09 - 2019.09.02   
 
+#### Project : 대림 24인치 월패드 LG ThinQ앱 작업    
+> **Play Store**   
+>월패드내에 적용된 Android App입니다.
+> **내용** : LG ThinQ 앱 지원   
+> **역할** : LG ThinQ Widget 및 App 개발    
+> **기술** : Kotlin, MVVM Achitecture, coroutine    
+> **개발 기간** : 2023.04.24 - 2023.11.21       
+> **개발 내용**  
+	1. 로그인 화면 - EMP 연동 개발   
+	2. LG 에어컨, LG 공기청정기, LG 세탁기, LG 건조기, LG 냉장고, LG 식기세척기, LG 스타일러, LG 정수기, LG 워시타워 앱 기능 개발   
+	3. LG 에어컨, LG 공기청정기, LG 세탁기, LG 건조기, LG 냉장고, LG 식기세척기, LG 스타일러, LG 정수기, LG 워시타워 위젯 기능 개발     
+
 #### Project : 이마주 베트남향 작업    
 > **Play Store**   
 >https://play.google.com/store/apps/details?id=com.ht.shinsegae.villiv   
