@@ -373,9 +373,6 @@
 	1. 단지서비스 UI 기능     
 
 #### Project : 현대자동차, 기아자동차 AVN 앱 개발 (프로토타입 - 신규)
-<img src="https://github.com/woohyun-jeong/profile/blob/master/%ED%98%84%EB%8C%80%EC%B0%A8.png" width="300"></img>
-<img src="https://github.com/woohyun-jeong/profile/blob/master/%EA%B8%B0%EC%95%84%EC%9E%90%EB%8F%99%EC%B0%A8.png" width="300"></img>
-
 > **내용** : 2017 모터쇼 현대자동차, 기아자동차 카투홈 서비스 POC 기능   
 > **역할** : POC 모델 증명할 Android App 개발   
 > **개발 기간** : 2017.03.01 - 2017.03.31    
