@@ -41,15 +41,6 @@
 	3. 다각화 빌드 설정 추가   
 	4. 로그인 페이지 고도화   
 
-#### Project : 삼성 SmartThings 4x버전 라이브러리 개발 사양    
-> **내용** : SmartThings 4x버전 라이브러리 개발을 위한 리딩  
-> **역할** : 개발 참여가 아닌 프로젝트 리딩    
-> **기술** : Node.js 기반의 react web 개발 내용 정리    
-> **개발 기간** : 2023.02.17 ~       
-> **개발 내용**  
-	1. 현대HT 기능 사양 정리 및 web 개발자와의 커뮤니케이션으로 프로젝트 리딩
-	2. 삼성 SmartThings 개발자 간에 커뮤니케이션으로 스마트폰에 Sideloading등과 같은 개발 프로세스 정리   
-
 #### Project : 이마주 유지보수    
 > **Play Store**   
 >https://play.google.com/store/apps/details?id=com.hdtel.imazuhome  
