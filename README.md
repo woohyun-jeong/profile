@@ -15,6 +15,18 @@
 > **현대통신(주)** IoT팀 전임 연구원 / 2019.09.02 - 2021.07.01   
 > **현대통신(주)** Application1팀 주임 연구원 / 2017.01.09 - 2019.09.02   
 
+#### Project : HT Home 2.0    
+> **Play Store**   
+>https://play.google.com/store/apps/details?id=com.ht.connected.home.mobile   
+> **내용** : 통합 스마트 홈 기능 개발   
+> **역할** : 전체적인 앱 개발    
+> **기술** : Kotlin, MVVM Achitecture, Rxjava     
+> **개발 기간** : 2023.11.22 ~      
+> **개발 내용**  
+	1. Android OS 버전 대응   
+	2. SQE 이슈 수정 및 대응
+	3. 필드 이슈 수정 및 대응   
+
 #### Project : 대림 24인치 월패드 LG ThinQ앱 작업    
 > **Play Store**   
 >월패드내에 적용된 Android App입니다.
@@ -65,7 +77,7 @@
 	3. 다각화 빌드 설정 추가   
 	4. 로그인 페이지 고도화   
 
-#### Project : HT 통합 앱    
+#### Project : HT Home 2.0    
 > **Play Store**   
 > 배포 전   
 > **내용** : 통합 스마트 홈 기능 개발   
@@ -114,7 +126,7 @@
 	1. flavor를 활용한 기존 스마트홈 앱에서 빌드 다각화     
 
 
-#### Project : 통합 앱 (HT-Home) 개발 진행 중    
+#### Project : HT Home 2.0    
 > **내용** : 통합 앱 전반적인 기능 및 화면 개발   
 > **역할** : 신규 서비스 개발    
 > **기술** : Kotlin, MVVM Achitecture, Rxjava, Livedata, koin     
@@ -191,7 +203,7 @@
 	2. 측정결과 결과 화면 및 오각형 차트      
 	3. BLE 음주 측정 화면 및 기능      
 
-#### Project : HT-home v2.0 안드로이드 앱 개발 기능 고도화 (자동화 시나리오)
+#### Project : HT Home 2.0 안드로이드 앱 개발 기능 고도화 (자동화 시나리오)
 > **Play Store**    
 >https://play.google.com/store/apps/details?id=com.ht.connected.home.mobile
 > **내용** : 자동화 시나리오 기능     
@@ -225,7 +237,7 @@
 > **개발 내용**   
 	1. Imazu 1.0 Socket 통신 기능들 전체 통합   	
 
-#### Project : HT-home v2.0 안드로이드 앱 개발 (리뉴얼)
+#### Project : HT Home 2.0 안드로이드 앱 개발 (리뉴얼)
 > **Play Store**    
 >https://play.google.com/store/apps/details?id=com.ht.connected.home.mobile    
 > **내용** : Host 장비를 통한 Iot Zwave 기기제어 및 부가 서비스 제공    
